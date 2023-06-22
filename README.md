@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ## 👋 Hi there!
 
 My name is Tyson, and I'm a Cloud and Data Solutions Lead.
+- 🔭 I’m currently working on Data Platform and Application Development on Cloud-based technology
