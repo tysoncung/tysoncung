@@ -1,6 +1,6 @@
 # tysoncung
 ![Tyson's github stats](https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=100)
 
 
 
