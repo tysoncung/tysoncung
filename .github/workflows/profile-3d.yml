@@ -19,6 +19,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch full history for better merge handling
           
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -38,5 +39,33 @@ jobs:
             git commit -m "🎨 Update 3D contribution calendar
             
             [skip ci]"
-            git push
+            
+            # Push with retry logic in case of concurrent updates
+            max_attempts=3
+            attempt=1
+            while [ $attempt -le $max_attempts ]; do
+              echo "Push attempt $attempt of $max_attempts"
+              if git push; then
+                echo "Push successful"
+                break
+              else
+                echo "Push failed, pulling latest changes and retrying..."
+                # Fetch and rebase
+                git fetch origin main
+                if ! git rebase origin/main; then
+                  echo "Rebase failed, trying merge strategy"
+                  git rebase --abort || true
+                  git pull origin main --no-rebase --strategy-option=ours
+                fi
+                attempt=$((attempt + 1))
+                if [ $attempt -le $max_attempts ]; then
+                  sleep 2
+                fi
+              fi
+            done
+            
+            if [ $attempt -gt $max_attempts ]; then
+              echo "Failed to push after $max_attempts attempts"
+              exit 1
+            fi
           fi
