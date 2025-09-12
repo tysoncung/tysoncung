@@ -13,6 +13,12 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 - 💡 Passionate about **automation, infrastructure as code, and DevOps best practices**
 - 🎯 Focus areas: **Cloud Architecture, Data Engineering, Security Automation, and Cybersecurity**
 
+<!-- STATS:START -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Loading-Stats-blue?style=flat-square" />
+</div>
+<!-- STATS:END -->
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -81,9 +87,17 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight" alt="Profile Details" />
 </div>
 
+### 📊 3D Contribution Calendar
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
+
+### 🔄 Recent Activity
+<!-- RECENT:START -->
+- 🔨 Working on awesome projects...
+<!-- RECENT:END -->
 
 ## 🌟 Highlights
 

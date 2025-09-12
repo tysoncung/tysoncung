@@ -1,0 +1,147 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # Run at 12:00 AM UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/update-stats.yml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Generate Dynamic Content
+        id: dynamic-content
+        run: |
+          # Get current date
+          echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          
+          # Create a timestamp for cache busting
+          echo "timestamp=$(date +'%s')" >> $GITHUB_OUTPUT
+          
+          # Day of year for unique daily seed
+          echo "day_of_year=$(date +'%j')" >> $GITHUB_OUTPUT
+          
+      - name: Update README with Fresh Stats
+        run: |
+          python - <<'EOF'
+          import re
+          import os
+          from datetime import datetime
+          
+          # Read the current README
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          # Get timestamp for cache busting
+          timestamp = os.environ.get('TIMESTAMP', '')
+          
+          # Update all stats URLs with cache-busting parameter
+          # This forces GitHub to refresh the images
+          
+          # Update GitHub Stats
+          content = re.sub(
+              r'(github-readme-stats\.vercel\.app/api\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          # Update Top Languages
+          content = re.sub(
+              r'(github-readme-stats\.vercel\.app/api/top-langs/\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          # Update Streak Stats
+          content = re.sub(
+              r'(github-readme-streak-stats\.herokuapp\.com/\?user=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          # Update Profile Summary Cards
+          content = re.sub(
+              r'(github-profile-summary-cards\.vercel\.app/api/cards/profile-details\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          # Update Trophy
+          content = re.sub(
+              r'(github-profile-trophy\.vercel\.app/\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          # Add/Update last updated timestamp
+          update_line = f"\n<!-- Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')} -->\n"
+          
+          # Check if update line exists
+          if '<!-- Last updated:' in content:
+              content = re.sub(
+                  r'<!-- Last updated:.*?-->',
+                  f"<!-- Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')} -->",
+                  content
+              )
+          else:
+              # Add it at the end
+              content = content.rstrip() + '\n' + update_line
+          
+          # Write the updated content
+          with open('README.md', 'w') as f:
+              f.write(content)
+          
+          print("README.md updated successfully with fresh stats URLs")
+          EOF
+        env:
+          TIMESTAMP: ${{ steps.dynamic-content.outputs.timestamp }}
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "tyson.cung@gmail.com"
+          git config --local user.name "Tyson Cung"
+          git add README.md
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Update profile stats
+
+          - Refreshed GitHub statistics
+          - Updated contribution graphs
+          - Refreshed activity metrics
+          - Cache busted all stat images
+          
+          [skip ci]"
+            git push
+          fi
+          
+      - name: Purge README Cache
+        run: |
+          # Purge GitHub's image cache by making a request to the README
+          curl -s "https://github.com/tysoncung/tysoncung/blob/main/README.md" > /dev/null
+          
+          # Also trigger a purge of the raw content
+          curl -s "https://raw.githubusercontent.com/tysoncung/tysoncung/main/README.md" > /dev/null
+          
+          echo "Cache purge requests sent"
