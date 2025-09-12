@@ -120,16 +120,17 @@ jobs:
           git config --local user.email "tyson.cung@gmail.com"
           git config --local user.name "Tyson Cung"
           
-          # Pull latest changes to avoid conflicts
-          git pull --rebase origin main
-          
-          git add README.md
-          
-          # Check if there are changes
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "🔄 Update profile stats
+          # Check if README has changes
+          if git diff README.md | head -1; then
+            # Stage the changes
+            git add README.md
+            
+            # Check if there are actually staged changes
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              # Commit the changes
+              git commit -m "🔄 Update profile stats
 
           - Refreshed GitHub statistics
           - Updated contribution graphs
@@ -137,29 +138,34 @@ jobs:
           - Cache busted all stat images
           
           [skip ci]"
-            
-            # Push with retry logic in case of concurrent updates
-            max_attempts=3
-            attempt=1
-            while [ $attempt -le $max_attempts ]; do
-              echo "Push attempt $attempt of $max_attempts"
-              if git push; then
-                echo "Push successful"
-                break
-              else
-                echo "Push failed, pulling latest changes and retrying..."
-                git pull --rebase origin main
-                attempt=$((attempt + 1))
-                if [ $attempt -le $max_attempts ]; then
-                  sleep 2
+              
+              # Push with retry logic in case of concurrent updates
+              max_attempts=3
+              attempt=1
+              while [ $attempt -le $max_attempts ]; do
+                echo "Push attempt $attempt of $max_attempts"
+                if git push; then
+                  echo "Push successful"
+                  break
+                else
+                  echo "Push failed, pulling latest changes and retrying..."
+                  # Pull and rebase
+                  git fetch origin main
+                  git rebase origin/main
+                  attempt=$((attempt + 1))
+                  if [ $attempt -le $max_attempts ]; then
+                    sleep 2
+                  fi
                 fi
+              done
+              
+              if [ $attempt -gt $max_attempts ]; then
+                echo "Failed to push after $max_attempts attempts"
+                exit 1
               fi
-            done
-            
-            if [ $attempt -gt $max_attempts ]; then
-              echo "Failed to push after $max_attempts attempts"
-              exit 1
             fi
+          else
+            echo "No changes to README.md"
           fi
           
       - name: Purge README Cache
