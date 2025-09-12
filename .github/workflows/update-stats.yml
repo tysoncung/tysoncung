@@ -22,6 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch full history for better merge handling
           
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -139,7 +140,10 @@ jobs:
           
           [skip ci]"
               
-              # Push with retry logic in case of concurrent updates
+              # Store timestamp for use in retry logic
+              export TIMESTAMP="${TIMESTAMP}"
+              
+              # Push with retry logic in case of concurrent updates  
               max_attempts=3
               attempt=1
               while [ $attempt -le $max_attempts ]; do
@@ -149,9 +153,84 @@ jobs:
                   break
                 else
                   echo "Push failed, pulling latest changes and retrying..."
-                  # Pull and rebase
+                  # Fetch the latest changes
                   git fetch origin main
-                  git rebase origin/main
+                  
+                  # Try to rebase, but if it fails due to conflicts, abort and retry with merge
+                  if ! git rebase origin/main; then
+                    echo "Rebase failed, aborting and trying merge strategy"
+                    git rebase --abort || true
+                    
+                    # Pull with merge strategy instead
+                    git pull origin main --no-rebase --strategy-option=theirs
+                    
+                    # Re-run the Python script to ensure our changes are applied
+                    python - <<'EOF'
+          import re
+          import os
+          from datetime import datetime
+          
+          # Read the current README
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          # Get timestamp for cache busting
+          timestamp = os.environ.get('TIMESTAMP', '')
+          
+          # Update all stats URLs with cache-busting parameter
+          content = re.sub(
+              r'(github-readme-stats\.vercel\.app/api\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          content = re.sub(
+              r'(github-readme-stats\.vercel\.app/api/top-langs/\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          content = re.sub(
+              r'(github-readme-streak-stats\.herokuapp\.com/\?user=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          content = re.sub(
+              r'(github-profile-summary-cards\.vercel\.app/api/cards/profile-details\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          content = re.sub(
+              r'(github-profile-trophy\.vercel\.app/\?username=tysoncung[^"]*)',
+              lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
+              content
+          )
+          
+          # Update timestamp
+          update_line = f"<!-- Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')} -->"
+          if '<!-- Last updated:' in content:
+              content = re.sub(
+                  r'<!-- Last updated:.*?-->',
+                  update_line,
+                  content
+              )
+          else:
+              content = content.rstrip() + '\n' + update_line + '\n'
+          
+          # Write the updated content
+          with open('README.md', 'w') as f:
+              f.write(content)
+          
+          print("README.md re-updated after merge")
+          EOF
+                    
+                    # Stage and amend the merge commit
+                    git add README.md
+                    git commit --amend --no-edit
+                  fi
+                  
                   attempt=$((attempt + 1))
                   if [ $attempt -le $max_attempts ]; then
                     sleep 2
