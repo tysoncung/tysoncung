@@ -14,9 +14,13 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 - 🎯 Focus areas: **Cloud Architecture, Data Engineering, Security Automation, and Cybersecurity**
 
 <!-- STATS:START -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Loading-Stats-blue?style=flat-square" />
-</div>
+## 📊 Current Stats 
+- 🔥 **6-day streak** (Sept 11-15, 17-18)
+- 📝 **60+ contributions** this month
+- 🎯 **5 PRs** opened (2 merged ✅)
+- 🏆 **6 repositories** created
+- 🌟 **3 projects** with major updates
+- 📚 **Daily learning** maintained
 <!-- STATS:END -->
 
 ## 🛠️ Tech Stack
