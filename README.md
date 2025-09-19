@@ -18,11 +18,11 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 - 🔥 **7-day streak** achieved! (Sept 11-15, 17-19)
 - 📝 **80+ contributions** this month
 - 🎯 **8 PRs** opened (2 merged ✅)
-- 🏆 **6 repositories** created
+- 🏆 **7 repositories** created (including awesome-cdk-typescript)
 - 🌟 **5 projects** with major updates
 - 📚 **Daily learning** maintained
 - 🎉 **Milestone**: 7-day contribution streak!
-- 🚀 **Latest PRs**: awesome-nodejs #1341, awesome-readme #300
+- 🚀 **Latest PRs**: sindresorhus/awesome #3654, awesome-cdk #104, awesome-aws #256
 <!-- STATS:END -->
 
 ## 🏅 Achievements & Badges
@@ -90,6 +90,7 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 - **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - Pattern detection algorithms for cryptocurrency technical analysis
 
 ### 🚀 Development Tools & Libraries
+- **[Awesome CDK TypeScript](https://github.com/tysoncung/awesome-cdk-typescript)** ⭐ NEW - Comprehensive curated list of 100+ AWS CDK TypeScript resources
 - **[Awesome Node.js Tools](https://github.com/tysoncung/awesome-nodejs-tools)** - Ranked collection of Node.js packages with automated metrics updates
 - **[MongoDB Prisma Demo](https://github.com/tysoncung/mongodb-prisma-demo)** - Full-stack demonstration with Prisma ORM, migrations, and CI/CD
 
@@ -113,13 +114,17 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 
 ### 🔄 Recent Activity
 <!-- RECENT:START -->
-- 🔨 Working on awesome projects...
+- 🚀 Released **[awesome-cdk-typescript](https://github.com/tysoncung/awesome-cdk-typescript)** v1.0.0
+- 📝 Submitted PRs to sindresorhus/awesome, awesome-cdk, and awesome-aws
+- 🔧 Fixed awesome-lint validation issues for better compliance
+- 📚 Added 100+ AWS CDK TypeScript resources with examples
+- 🎯 Created comprehensive CDK patterns and production-ready templates
 <!-- RECENT:END -->
 
 ## 🌟 Highlights
 
 - 🔐 **Security Focus**: Implementing Essential Eight maturity models and security best practices
-- 📚 **Knowledge Sharing**: Creating comprehensive "awesome" lists for DevOps and Node.js communities
+- 📚 **Knowledge Sharing**: Creating comprehensive "awesome" lists for DevOps, Node.js, and AWS CDK communities
 - 🤝 **Open Source**: Active contributor to various open-source projects
 - 🏗️ **Infrastructure as Code**: Building scalable cloud solutions with Terraform and Kubernetes
 - 📊 **Data Engineering**: Designing robust data pipelines and analytics platforms
@@ -129,7 +134,7 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 - 🎯 Building enterprise-grade cloud solutions on AWS and Azure
 - 🔍 Exploring AI/ML integration in DevOps workflows
 - 🛠️ Developing automation tools for security compliance
-- 📖 Contributing to open-source security and DevOps projects
+- 📖 Contributing to open-source security, DevOps, and AWS CDK projects
 
 ## 📫 Connect With Me
 
