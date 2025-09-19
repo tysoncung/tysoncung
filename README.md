@@ -16,13 +16,25 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 <!-- STATS:START -->
 ## 📊 Current Stats 
 - 🔥 **7-day streak** achieved! (Sept 11-15, 17-19)
-- 📝 **70+ contributions** this month
-- 🎯 **5 PRs** opened (2 merged ✅)
+- 📝 **75+ contributions** this month
+- 🎯 **7 PRs** opened (2 merged ✅)
 - 🏆 **6 repositories** created
-- 🌟 **4 projects** with major updates
+- 🌟 **5 projects** with major updates
 - 📚 **Daily learning** maintained
 - 🎉 **Milestone**: 7-day contribution streak!
+- 🚀 **Latest PRs**: awesome-nodejs #1341, awesome-readme #300
 <!-- STATS:END -->
+
+## 🏅 Achievements & Badges
+
+<div align="center">
+  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://makeapullrequest.com)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)](https://github.com/tysoncung)
+[![Awesome](https://img.shields.io/badge/Awesome-Lists-FC60A8?style=for-the-badge)](https://github.com/sindresorhus/awesome)
+[![Daily Learner](https://img.shields.io/badge/Daily-Learner-blue?style=for-the-badge)](https://github.com/tysoncung/daily-learning)
+
+</div>
 
 ## 🛠️ Tech Stack
 
