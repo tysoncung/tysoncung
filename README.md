@@ -58,12 +58,12 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1758155244"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&cache=1758155244"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1758241705"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&cache=1758241705"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1758155244" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1758241705" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
@@ -88,14 +88,14 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight&cache=1758155244" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight&cache=1758241705" alt="Profile Details" />
 </div>
 
 ### 📊 3D Contribution Calendar
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7&cache=1758155244" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7&cache=1758241705" alt="GitHub Trophies" />
 </div>
 
 ### 🔄 Recent Activity
@@ -141,4 +141,4 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
   **Happy Coding!** 🚀
 </div>
 
-<!-- Last updated: 2025-09-18 00:27:24 UTC -->
+<!-- Last updated: 2025-09-19 00:28:26 UTC -->
