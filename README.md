@@ -1,17 +1,31 @@
 # Hi there, I'm Tyson Cung 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+%26+Data+Solutions+Lead;Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+%26+Data+Solutions+Lead;Platform+Engineering+Expert;Open+Source+Contributor;11-Day+Contribution+Streak+🔥" alt="Typing SVG" />
+  
+  [![GitHub followers](https://img.shields.io/github/followers/tysoncung?label=Follow&style=social)](https://github.com/tysoncung)
+  [![GitHub Stars](https://img.shields.io/github/stars/tysoncung?style=social)](https://github.com/tysoncung)
+  ![Profile Views](https://komarev.com/ghpvc/?username=tysoncung&color=blue)
+</div>
+
+## ⚡ Quick Stats
+<div align="center">
+  
+  [![Contribution Streak](https://img.shields.io/badge/🔥%20Streak-11%20days-orange)](https://github.com/tysoncung/daily-learning)
+  [![PRs Open](https://img.shields.io/badge/PRs-10%20Open-green)](https://github.com/pulls?q=is%3Apr+author%3Atysoncung+is%3Aopen)
+  [![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-5%20Created-purple)](https://github.com/tysoncung?tab=repositories&q=awesome)
+  [![Total Contributions](https://img.shields.io/badge/Contributions-130%2B-blue)](https://github.com/tysoncung)
+  
 </div>
 
 ## 🚀 About Me
 
 I'm a **Cloud and Data Solutions Lead** passionate about building scalable, efficient, and innovative solutions. With expertise spanning cloud architecture, data engineering, and full-stack development, I thrive on transforming complex challenges into elegant solutions.
 
-- 🔭 Currently working on **Data Platform and Application Development** using cloud-native technologies
-- 🌱 Continuously learning **AI/ML, Kubernetes, and emerging cloud patterns**
-- 💡 Passionate about **automation, infrastructure as code, and DevOps best practices**
-- 🎯 Focus areas: **Cloud Architecture, Data Engineering, Security Automation, and Cybersecurity**
+- 🔭 Currently working on **Platform Engineering & Internal Developer Platforms (IDPs)**
+- 🌱 Building **Awesome Lists** for DevOps, Platform Engineering, and emerging technologies
+- 💡 Active **Open Source Contributor** with 10+ PRs to major projects
+- 🎯 Focus: **Cloud Architecture, GitOps, Kubernetes, and Developer Experience**
 
 <!-- STATS:START -->
 ## 📊 Current Stats 
@@ -147,9 +161,22 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tysoncung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tysoncung/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyson.cung@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tysoncung.github.io)
 
+</div>
+
+## 💖 Support My Work
+
+<div align="center">
+  
+  If you find my projects helpful, please consider:
+  
+  [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/tysoncung)
+  [![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/tysoncung)
+  [![Star Projects](https://img.shields.io/badge/⭐%20Star-My%20Projects-yellow?style=for-the-badge)](https://github.com/tysoncung?tab=repositories)
+  
 </div>
 
 ---
@@ -162,7 +189,7 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
   
   <br/>
   
-  **Happy Coding!** 🚀
+  **Let's connect and build something amazing together!** 🚀
 </div>
 
 <!-- Last updated: 2025-09-23 00:27:51 UTC -->
