@@ -15,15 +15,15 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 
 <!-- STATS:START -->
 ## 📊 Current Stats 
-- 🔥 **10-day streak** achieved! (Sept 11-15, 17-22)
-- 📝 **120+ contributions** this year
-- 🎯 **10 PRs** opened (2 merged ✅, 8 pending)
-- 🏆 **30+ repositories** total (3 created this month)
-- 🐛 **5 issues** resolved
+- 🔥 **11-day streak** achieved! (Sept 11-15, 17-23)
+- 📝 **130+ contributions** this year
+- 🎯 **12 PRs** opened (2 merged ✅, 10 pending)
+- 🏆 **35+ repositories** total (5 created this month)
+- 🐛 **6 issues** resolved
 - 📚 **Daily learning** maintained
-- 🎉 **Milestone**: 10-day contribution streak!
-- 🚀 **Latest PRs**: Appwrite #10532, awesome-nodejs #1342, awesome #3654
-- 📖 **New**: Created awesome-fedify curated list
+- 🎉 **Milestone**: Created awesome-devops-platform with 200+ resources!
+- 🚀 **Latest PRs**: awesome #3662, awesome-typescript #290, awesome-nodejs #1342
+- 📖 **New**: awesome-devops-platform & awesome-fedify curated lists
 <!-- STATS:END -->
 
 ## 🏅 Achievements & Badges
@@ -91,7 +91,9 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 - **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - Pattern detection algorithms for cryptocurrency technical analysis
 
 ### 🚀 Development Tools & Libraries
-- **[Awesome CDK TypeScript](https://github.com/tysoncung/awesome-cdk-typescript)** ⭐ NEW - Comprehensive curated list of 100+ AWS CDK TypeScript resources
+- **[Awesome DevOps Platform](https://github.com/tysoncung/awesome-devops-platform)** ⭐ NEW - 200+ Platform Engineering & GitOps resources
+- **[Awesome CDK TypeScript](https://github.com/tysoncung/awesome-cdk-typescript)** - Comprehensive curated list of 100+ AWS CDK TypeScript resources
+- **[Awesome Fedify](https://github.com/tysoncung/awesome-fedify)** ⭐ NEW - ActivityPub & fediverse development resources
 - **[Awesome Node.js Tools](https://github.com/tysoncung/awesome-nodejs-tools)** - Ranked collection of Node.js packages with automated metrics updates
 - **[MongoDB Prisma Demo](https://github.com/tysoncung/mongodb-prisma-demo)** - Full-stack demonstration with Prisma ORM, migrations, and CI/CD
 
@@ -115,11 +117,13 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 
 ### 🔄 Recent Activity
 <!-- RECENT:START -->
-- 🚀 Released **[awesome-cdk-typescript](https://github.com/tysoncung/awesome-cdk-typescript)** v1.0.0
-- 📝 Submitted PRs to sindresorhus/awesome, awesome-cdk, and awesome-aws
-- 🔧 Fixed awesome-lint validation issues for better compliance
-- 📚 Added 100+ AWS CDK TypeScript resources with examples
-- 🎯 Created comprehensive CDK patterns and production-ready templates
+- 🚀 Created **[awesome-devops-platform](https://github.com/tysoncung/awesome-devops-platform)** - 200+ Platform Engineering resources
+- 🔧 Fixed all broken links in awesome-devops-platform after thorough testing
+- 📝 Submitted PR #3662 to sindresorhus/awesome for awesome-devops-platform
+- 🌟 Added Fedify & DevOps section to awesome-typescript (PR #290)
+- 🎯 Created **[awesome-fedify](https://github.com/tysoncung/awesome-fedify)** for ActivityPub resources
+- 🐛 Fixed SMTP validation bug in Appwrite (PR #10532)
+- 📚 Maintaining 11-day contribution streak with 130+ contributions
 <!-- RECENT:END -->
 
 ## 🌟 Highlights
@@ -132,10 +136,11 @@ I'm a **Cloud and Data Solutions Lead** passionate about building scalable, effi
 
 ## 💡 Current Focus
 
-- 🎯 Building enterprise-grade cloud solutions on AWS and Azure
-- 🔍 Exploring AI/ML integration in DevOps workflows
-- 🛠️ Developing automation tools for security compliance
-- 📖 Contributing to open-source security, DevOps, and AWS CDK projects
+- 🎯 Platform Engineering & Internal Developer Platforms (IDPs)
+- 🚀 Maintaining 11-day open source contribution streak
+- 🔍 Contributing to major awesome lists (10+ active PRs)
+- 🛠️ Building comprehensive DevOps & Platform Engineering resources
+- 📖 Creating curated lists for emerging technologies (ActivityPub, GitOps)
 
 ## 📫 Connect With Me
 
