@@ -1,7 +1,7 @@
 # Hi there, I'm Tyson Cung 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=AI%2FML+Engineer+%7C+Building+Intelligent+Systems;LLM+%26+AI+Agent+Developer;MLOps+%26+Production+AI;Open+Source+AI+Contributor+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Cloud+%26+Platform+Engineering+Lead;AI%2FML+%7C+Data+%7C+DevOps+Expert;Building+Intelligent+Cloud+Systems;Open+Source+Contributor+%7C+10x+Engineer+🚀" alt="Typing SVG" />
   
   [![GitHub followers](https://img.shields.io/github/followers/tysoncung?label=Follow&style=social)](https://github.com/tysoncung)
   [![GitHub Stars](https://img.shields.io/github/stars/tysoncung?style=social)](https://github.com/tysoncung)
@@ -18,16 +18,16 @@
   
 </div>
 
-## 🤖 About Me
+## 🚀 About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems. I specialize in LLMs, AI agents, and production ML systems, combining deep learning expertise with robust software engineering practices.
+I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable systems at the intersection of **AI/ML, Cloud Architecture, Data Engineering, and DevOps**. I combine deep technical expertise across the full stack with a focus on production-grade solutions and automation.
 
-- 🔭 Currently working on **AI Agents & LLM Applications**
-- 🤖 Building **AI-powered automation tools and intelligent systems**
-- 🧠 Exploring **RAG, prompt engineering, and model fine-tuning**
-- 💡 Active **Open Source Contributor** to AI/ML frameworks
-- 🎯 Focus: **LLMs, MLOps, AI Agents, and Production AI Systems**
-- 🚀 Contributing to **LangChain, Hugging Face, and AI tooling**
+- ☁️ **Cloud & Platform Engineering** - AWS, Azure, Kubernetes, Terraform, IaC
+- 🤖 **AI/ML Systems** - LLMs, AI agents, MLOps, production ML pipelines
+- 📊 **Data Engineering** - Data platforms, pipelines, analytics infrastructure
+- 🔧 **DevOps & Automation** - CI/CD, GitOps, platform tooling, developer experience
+- 💡 **Open Source** - Active contributor to cloud, AI, and DevOps ecosystems
+- 🎯 **Focus**: Building intelligent platforms that scale and empower teams
 
 <!-- STATS:START -->
 ## 📊 Current Stats
@@ -53,37 +53,42 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems that sol
 
 </div>
 
-## 🛠️ AI/ML Tech Stack
+## 🛠️ Tech Stack
 
-### AI/ML Frameworks & Libraries
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI/ML & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### LLMs & AI Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### MLOps & Deployment
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### DevOps & Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Vector Databases & Tools
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
@@ -96,28 +101,29 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems that sol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1761006554" alt="GitHub Streak" />
 </div>
 
-## 🤖 Featured AI/ML Projects
+## 🏆 Featured Projects
 
-### 🧠 LLM Applications
-- **[AI GitHub Assistant](coming-soon)** ⭐ BUILDING - Autonomous GitHub agent powered by GPT-4
-- **[RAG Document Chat](coming-soon)** - Chat with your documents using LangChain and vector embeddings
-- **[AI Code Reviewer](coming-soon)** - Automated PR reviews with intelligent suggestions
-- **[Prompt Engineering Toolkit](coming-soon)** - Collection of proven prompts and patterns
-
-### 🚀 AI Tools & Resources
-- **[Awesome AI Developer Tools](coming-soon)** ⭐ NEW - Curated list of 200+ AI tools for developers
-- **[AI Stacks](https://github.com/tysoncung/ai-stacks)** - Comprehensive AI tools and resources repository with 150+ categorized tools
-- **[LLM Experiments](coming-soon)** - Documenting experiments with various LLMs and techniques
-
-### 🔬 ML/Deep Learning
-- **[Model Zoo](coming-soon)** - Collection of trained models and datasets
-- **[MLOps Pipeline](coming-soon)** - Production-ready ML deployment pipeline
-- **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - Pattern detection algorithms for cryptocurrency technical analysis
-
-### 🛠️ DevOps & Platform Tools
-- **[Awesome DevOps Platform](https://github.com/tysoncung/awesome-devops-platform)** - 200+ Platform Engineering & GitOps resources
+### ☁️ Cloud & Platform Engineering
+- **[Awesome DevOps Platform](https://github.com/tysoncung/awesome-devops-platform)** ⭐ - 200+ Platform Engineering & GitOps resources
 - **[Awesome DevOps Tools](https://github.com/tysoncung/awesome-devops-tools)** - Curated collection of 400+ DevOps tools
-- **[GitHub 10X Automation](in-repo)** - Automated GitHub presence and productivity tools
+- **[Awesome CDK TypeScript](https://github.com/tysoncung/awesome-cdk-typescript)** - 100+ AWS CDK TypeScript resources
+- **[AWS Data Platform](https://github.com/tysoncung/aws-data-platform)** - Production-ready data platform template
+- **[Azure Fabric Data Platform](https://github.com/tysoncung/azure-fabric-data-platform)** - Modern data platform with Microsoft Fabric
+
+### 🤖 AI/ML & Intelligent Systems
+- **[AI GitHub Assistant](coming-soon)** ⭐ BUILDING - Autonomous GitHub agent powered by GPT-4
+- **[AI Stacks](https://github.com/tysoncung/ai-stacks)** - Comprehensive AI tools repository with 150+ categorized tools
+- **[GitHub 10X Automation](in-repo)** - AI-powered GitHub productivity and engagement tools
+- **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - ML pattern detection for technical analysis
+
+### 📊 Data Engineering
+- **[MongoDB Prisma Demo](https://github.com/tysoncung/mongodb-prisma-demo)** - Full-stack with Prisma ORM, migrations, and CI/CD
+- **[Data Pipeline Templates](coming-soon)** - Production-ready data engineering patterns
+
+### 🔧 Developer Tools & Automation
+- **[Awesome Node.js Tools](https://github.com/tysoncung/awesome-nodejs-tools)** - Ranked Node.js packages with metrics
+- **[Essential Eight Checklist](https://github.com/tysoncung/essential-eight-checklist)** - ACSC security maturity implementation
+- **[Awesome Fedify](https://github.com/tysoncung/awesome-fedify)** - ActivityPub & fediverse resources
 
 ## 📈 Contribution Activity
 
@@ -137,24 +143,23 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems that sol
 - ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)
 <!-- RECENT:END -->
 
-## 🌟 AI/ML Highlights
+## 🌟 Expertise Highlights
 
-- 🤖 **LLM Applications**: Building production-ready apps with GPT-4, Claude, and open-source models
-- 🧠 **AI Agents**: Developing autonomous agents with LangChain and custom frameworks
-- 📚 **Knowledge Sharing**: Creating comprehensive AI/ML resources and tutorials
-- 🤝 **Open Source**: Contributing to LangChain, Hugging Face, and AI tooling
-- 🚀 **MLOps**: Deploying and monitoring ML models in production
-- 🔬 **Research**: Experimenting with RAG, prompt engineering, and model fine-tuning
+- ☁️ **Cloud Architecture**: Designing scalable, resilient systems on AWS and Azure
+- 🏗️ **Platform Engineering**: Building Internal Developer Platforms (IDPs) and GitOps workflows
+- 🤖 **AI/ML Integration**: Incorporating LLMs and ML into cloud-native applications
+- 📊 **Data Engineering**: Designing robust data pipelines and analytics platforms
+- 🔧 **DevOps Excellence**: CI/CD, infrastructure as code, automation at scale
+- 📚 **Open Source**: Contributing to cloud, AI, DevOps, and platform engineering ecosystems
 
-## 💡 Current AI Focus
+## 💡 Current Focus
 
-- 🎯 Building **AI agents and autonomous systems** with LangChain
-- 🧠 Exploring **RAG (Retrieval Augmented Generation)** for enterprise applications
-- 🚀 Creating **AI-powered developer tools** and automation
-- 🔍 Contributing to **AI/ML open source frameworks**
-- 🛠️ Building **MLOps pipelines** for model deployment
-- 📖 Sharing **AI/ML learnings** through code and documentation
-- 🤖 Experimenting with **prompt engineering** and model optimization
+- 🎯 **Platform Engineering** - Building comprehensive IDPs with GitOps and automation
+- 🤖 **AI-Enhanced Systems** - Integrating LLMs into cloud platforms and workflows
+- 📊 **Data Infrastructure** - Modern data platforms with real-time processing
+- ☁️ **Multi-Cloud Strategy** - AWS, Azure, and hybrid cloud architectures
+- 🚀 **Developer Experience** - Tools and platforms that 10x productivity
+- 🔍 **Open Source** - Contributing to awesome lists, frameworks, and tooling
 
 ## 📫 Connect With Me
 
