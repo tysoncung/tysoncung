@@ -36,11 +36,12 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 - 📝 **145+ contributions** this year
 - 🎯 **9 PRs** currently open (2 new PRs this week!)
 - ✅ **36 PRs** merged across major projects
-- 🏆 **320 public repositories**
+- 🏆 **322 public repositories** (+2 new projects!)
 - 📚 **Daily learning** maintained with automation
-- 👥 **28 followers** | **183 following** (+3 followers this month!)
-- ⭐ **372 stars** given (+16 this month)
-- 🚀 **Top repos**: azure-fabric-data-platform (3⭐), crypto-chart-patterns (3⭐, 2🍴)
+- 👥 **28 followers** | **183 following**
+- ⭐ **382+ stars** given (+10 new this session)
+- 🚀 **Featured**: n8n-MCP-demo (workflow automation), awesome-ai-agents (curated list)
+- 💡 **Latest**: Cross-platform n8n-MCP integration demo with Docker
 <!-- STATS:END -->
 
 ## 🏅 Achievements & Badges
@@ -112,7 +113,8 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 - **[Azure Fabric Data Platform](https://github.com/tysoncung/azure-fabric-data-platform)** - Modern data platform with Microsoft Fabric
 
 ### 🤖 AI/ML & Intelligent Systems
-- **[AI GitHub Assistant](coming-soon)** ⭐ BUILDING - Autonomous GitHub agent powered by GPT-4
+- **[n8n-MCP Integration Demo](https://github.com/tysoncung/n8n-mcp-demo)** ⭐ NEW - Cross-platform n8n workflow automation with Model Context Protocol using Docker
+- **[Awesome AI Agents](https://github.com/tysoncung/awesome-ai-agents)** ⭐ NEW - Curated list of 50+ AI agent frameworks and resources
 - **[AI Stacks](https://github.com/tysoncung/ai-stacks)** - Comprehensive AI tools repository with 150+ categorized tools
 - **[GitHub 10X Automation](in-repo)** - AI-powered GitHub productivity and engagement tools
 - **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - ML pattern detection for technical analysis
