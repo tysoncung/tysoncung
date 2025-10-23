@@ -11,10 +11,11 @@
 ## ⚡ Quick Stats
 <div align="center">
   
-  [![Contribution Streak](https://img.shields.io/badge/🔥%20Streak-1%20days-orange)](https://github.com/tysoncung/daily-learning)
-  [![PRs Open](https://img.shields.io/badge/PRs-10%20Open-green)](https://github.com/pulls?q=is%3Apr+author%3Atysoncung+is%3Aopen)
+  [![Contribution Streak](https://img.shields.io/badge/🔥%20Streak-13%20days-orange)](https://github.com/tysoncung/daily-learning)
+  [![PRs Open](https://img.shields.io/badge/PRs-9%20Open-green)](https://github.com/pulls?q=is%3Apr+author%3Atysoncung+is%3Aopen)
   [![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-5%20Created-purple)](https://github.com/tysoncung?tab=repositories&q=awesome)
-  [![Total Contributions](https://img.shields.io/badge/Contributions-8%2B-blue)](https://github.com/tysoncung)
+  [![Total Contributions](https://img.shields.io/badge/Contributions-145%2B-blue)](https://github.com/tysoncung)
+  [![Repositories](https://img.shields.io/badge/Repos-320%2B-blueviolet)](https://github.com/tysoncung?tab=repositories)
   
 </div>
 
@@ -31,15 +32,15 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 
 <!-- STATS:START -->
 ## 📊 Current Stats
-- 🔥 **1-day streak** maintained!
-- 📝 **8+ contributions** this year
-- 🎯 **9 PRs** currently open
-- ✅ **9 PRs** merged
-- 🐛 **0 issues** opened
-- 🏆 **319 public repositories**
+- 🔥 **13-day streak** achieved! (Sept 11-15, 17-25, 30, Oct 23)
+- 📝 **145+ contributions** this year
+- 🎯 **9 PRs** currently open (2 new PRs this week!)
+- ✅ **36 PRs** merged across major projects
+- 🏆 **320 public repositories**
 - 📚 **Daily learning** maintained with automation
-- 👥 **25 followers** | **181 following**
-- ⭐ **356 stars** given
+- 👥 **28 followers** | **183 following** (+3 followers this month!)
+- ⭐ **372 stars** given (+16 this month)
+- 🚀 **Top repos**: azure-fabric-data-platform (3⭐), crypto-chart-patterns (3⭐, 2🍴)
 <!-- STATS:END -->
 
 ## 🏅 Achievements & Badges
