@@ -95,12 +95,12 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1761179346"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&cache=1761179346"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1761265602"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&cache=1761265602"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1761179346" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1761265602" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
@@ -131,14 +131,14 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight&cache=1761179346" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight&cache=1761265602" alt="Profile Details" />
 </div>
 
 ### 📊 3D Contribution Calendar
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7&cache=1761179346" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7&cache=1761265602" alt="GitHub Trophies" />
 </div>
 
 ### 🔄 Recent Activity
@@ -200,4 +200,4 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
   **Let's connect and build something amazing together!** 🚀
 </div>
 
-<!-- Last updated: 2025-10-23 00:29:06 UTC -->
+<!-- Last updated: 2025-10-24 00:26:42 UTC -->
