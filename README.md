@@ -32,14 +32,14 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 
 <!-- STATS:START -->
 ## 📊 Current Stats
-- 🔥 **14-day streak** achieved! (Sept 11-15, 17-25, 30, Oct 25)
-- 📝 **165+ contributions** this year
+- 🔥 **14-day streak** achieved! (Sept 11-15, 17-25, 30, Oct 25-26)
+- 📝 **170+ contributions** this year
 - 🎯 **9 PRs** currently open
 - ✅ **36 PRs** merged across major projects
 - 🏆 **322 public repositories**
 - 📚 **Daily learning** maintained with automation
-- 👥 **40 followers** | **183 following**
-- ⭐ **415+ stars** given
+- 👥 **47 followers** | **183 following**
+- ⭐ **430+ stars** given
 - 🚀 **Featured**: n8n-MCP-demo (workflow automation), awesome-ai-agents (curated list)
 - 💡 **Latest**: Cross-platform n8n-MCP integration demo with Docker
 <!-- STATS:END -->
