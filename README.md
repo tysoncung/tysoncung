@@ -10,13 +10,13 @@
 
 ## ⚡ Quick Stats
 <div align="center">
-  
-  [![Contribution Streak](https://img.shields.io/badge/🔥%20Streak-13%20days-orange)](https://github.com/tysoncung/daily-learning)
-  [![PRs Open](https://img.shields.io/badge/PRs-9%20Open-green)](https://github.com/pulls?q=is%3Apr+author%3Atysoncung+is%3Aopen)
-  [![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-5%20Created-purple)](https://github.com/tysoncung?tab=repositories&q=awesome)
-  [![Total Contributions](https://img.shields.io/badge/Contributions-145%2B-blue)](https://github.com/tysoncung)
-  [![Repositories](https://img.shields.io/badge/Repos-320%2B-blueviolet)](https://github.com/tysoncung?tab=repositories)
-  
+
+  [![Contribution Streak](https://img.shields.io/badge/🔥%20Streak-Active-orange)](https://github.com/tysoncung/daily-learning)
+  [![PRs Open](https://img.shields.io/badge/PRs-10%2B%20Open-green)](https://github.com/pulls?q=is%3Apr+author%3Atysoncung+is%3Aopen)
+  [![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-8%20Created-purple)](https://github.com/tysoncung?tab=repositories&q=awesome)
+  [![Total Contributions](https://img.shields.io/badge/Contributions-200%2B-blue)](https://github.com/tysoncung)
+  [![Repositories](https://img.shields.io/badge/Repos-325%2B-blueviolet)](https://github.com/tysoncung?tab=repositories)
+
 </div>
 
 ## 🚀 About Me
@@ -31,17 +31,24 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 - 🎯 **Focus**: Building intelligent platforms that scale and empower teams
 
 <!-- STATS:START -->
-## 📊 Current Stats
-- 🔥 **14-day streak** achieved! (Sept 11-15, 17-25, 30, Oct 25-26)
-- 📝 **170+ contributions** this year
-- 🎯 **9 PRs** currently open
-- ✅ **36 PRs** merged across major projects
-- 🏆 **322 public repositories**
-- 📚 **Daily learning** maintained with automation
-- 👥 **47 followers** | **183 following**
-- ⭐ **430+ stars** given
-- 🚀 **Featured**: n8n-MCP-demo (workflow automation), awesome-ai-agents (curated list)
-- 💡 **Latest**: Cross-platform n8n-MCP integration demo with Docker
+## 📊 Current Stats & Achievements
+- 🔥 **Active contribution streak** - Consistent daily engagement
+- 📝 **200+ contributions** this year (and growing!)
+- 🎯 **10+ PRs** currently open across projects
+- ✅ **40+ PRs** merged across major projects
+- 🏆 **325+ public repositories** created and maintained
+- 📚 **8 Awesome Lists** created - curating resources for the community
+  - ⭐ **awesome-vibe-coding** - PR submitted to official awesome list!
+  - 🤖 **awesome-claude-ai** - Comprehensive AI assistant resources
+  - 🔐 **awesome-devsecops** - Security in SDLC tools
+  - 🎯 **awesome-prompt-engineering** - LLM prompting techniques
+- 💬 **Quality community engagement** - 3 thoughtful contributions today
+  - First responder on high-value issues
+  - Technical proposals with detailed implementation plans
+  - Building reputation through genuine value
+- 👥 **50+ followers** | **185+ following**
+- ⭐ **450+ stars** given to quality projects
+- 🚀 **Latest Release**: awesome-vibe-coding v1.1.0 with AI agents & latest models
 <!-- STATS:END -->
 
 ## 🏅 Achievements & Badges
@@ -105,27 +112,53 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 
 ## 🏆 Featured Projects
 
+### 📚 Awesome Lists Collection ⭐ NEW
+Curated resources for developers - 8 comprehensive awesome lists:
+
+- **[Awesome Vibe Coding](https://github.com/tysoncung/awesome-vibe-coding)** 🔥 v1.1.0 - AI-powered coding tools & assistants
+  - 60+ tools: Cursor, GitHub Copilot, Windsurf, Bolt.new
+  - NEW: AI Agents & Autonomous Coding category
+  - Latest models: Qwen2.5-Coder, DeepSeek V2, StarCoder 2
+  - PR submitted to official awesome list (#3714)
+
+- **[Awesome Claude AI](https://github.com/tysoncung/awesome-claude-ai)** 🤖 NEW - Complete Claude AI ecosystem
+  - Official resources, API SDKs (Python, TypeScript, Go, Rust)
+  - 80+ tools and integrations
+  - Developer tools, applications, use cases
+  - Best practices and benchmarks
+
+- **[Awesome DevSecOps](https://github.com/tysoncung/awesome-devsecops)** 🔐 NEW - Security in SDLC
+  - 100+ security tools (SAST, DAST, SCA, secrets detection)
+  - Container & Kubernetes security
+  - IaC security, compliance tools
+  - Best practices for production
+
+- **[Awesome Prompt Engineering](https://github.com/tysoncung/awesome-prompt-engineering)** 🎯 NEW - LLM prompting mastery
+  - 50+ prompt engineering resources
+  - Core & advanced techniques
+  - Tools, frameworks, model-specific guides
+  - Research papers and benchmarks
+
+- **[Awesome DevOps Platform](https://github.com/tysoncung/awesome-devops-platform)** - 200+ Platform Engineering & GitOps resources
+- **[Awesome DevOps Tools](https://github.com/tysoncung/awesome-devops-tools)** - 400+ DevOps tools curated
+- **[Awesome AI Agents](https://github.com/tysoncung/awesome-ai-agents)** - 50+ AI agent frameworks
+- **[Awesome CDK TypeScript](https://github.com/tysoncung/awesome-cdk-typescript)** - 100+ AWS CDK resources
+
 ### ☁️ Cloud & Platform Engineering
-- **[Awesome DevOps Platform](https://github.com/tysoncung/awesome-devops-platform)** ⭐ - 200+ Platform Engineering & GitOps resources
-- **[Awesome DevOps Tools](https://github.com/tysoncung/awesome-devops-tools)** - Curated collection of 400+ DevOps tools
-- **[Awesome CDK TypeScript](https://github.com/tysoncung/awesome-cdk-typescript)** - 100+ AWS CDK TypeScript resources
 - **[AWS Data Platform](https://github.com/tysoncung/aws-data-platform)** - Production-ready data platform template
 - **[Azure Fabric Data Platform](https://github.com/tysoncung/azure-fabric-data-platform)** - Modern data platform with Microsoft Fabric
 
 ### 🤖 AI/ML & Intelligent Systems
-- **[n8n-MCP Integration Demo](https://github.com/tysoncung/n8n-mcp-demo)** ⭐ NEW - Cross-platform n8n workflow automation with Model Context Protocol using Docker
-- **[Awesome AI Agents](https://github.com/tysoncung/awesome-ai-agents)** ⭐ NEW - Curated list of 50+ AI agent frameworks and resources
-- **[AI Stacks](https://github.com/tysoncung/ai-stacks)** - Comprehensive AI tools repository with 150+ categorized tools
-- **[GitHub 10X Automation](in-repo)** - AI-powered GitHub productivity and engagement tools
-- **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - ML pattern detection for technical analysis
+- **[n8n-MCP Integration Demo](https://github.com/tysoncung/n8n-mcp-demo)** - Cross-platform workflow automation with MCP + Docker
+- **[AI Stacks](https://github.com/tysoncung/ai-stacks)** - 150+ categorized AI tools
+- **[Crypto Chart Patterns](https://github.com/tysoncung/crypto-chart-patterns)** - ML pattern detection
 
 ### 📊 Data Engineering
-- **[MongoDB Prisma Demo](https://github.com/tysoncung/mongodb-prisma-demo)** - Full-stack with Prisma ORM, migrations, and CI/CD
-- **[Data Pipeline Templates](coming-soon)** - Production-ready data engineering patterns
+- **[MongoDB Prisma Demo](https://github.com/tysoncung/mongodb-prisma-demo)** - Full-stack with Prisma ORM, migrations, CI/CD
 
 ### 🔧 Developer Tools & Automation
 - **[Awesome Node.js Tools](https://github.com/tysoncung/awesome-nodejs-tools)** - Ranked Node.js packages with metrics
-- **[Essential Eight Checklist](https://github.com/tysoncung/essential-eight-checklist)** - ACSC security maturity implementation
+- **[Essential Eight Checklist](https://github.com/tysoncung/essential-eight-checklist)** - ACSC security maturity
 - **[Awesome Fedify](https://github.com/tysoncung/awesome-fedify)** - ActivityPub & fediverse resources
 
 ## 📈 Contribution Activity
@@ -157,12 +190,19 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 
 ## 💡 Current Focus
 
+- 📚 **Community Curation** - Building comprehensive awesome lists for developers
+  - Latest: 4 new awesome lists launched (AI coding, Claude AI, DevSecOps, Prompt Engineering)
+  - Submitted to official awesome list for broader visibility
+  - 800+ resources curated across security, AI, and developer tools
+- 🤝 **Quality Open Source Engagement** - Building reputation through genuine value
+  - Technical proposals with detailed implementation plans
+  - First responder on high-value issues
+  - Contributing to testing, documentation, and architecture discussions
 - 🎯 **Platform Engineering** - Building comprehensive IDPs with GitOps and automation
 - 🤖 **AI-Enhanced Systems** - Integrating LLMs into cloud platforms and workflows
 - 📊 **Data Infrastructure** - Modern data platforms with real-time processing
 - ☁️ **Multi-Cloud Strategy** - AWS, Azure, and hybrid cloud architectures
 - 🚀 **Developer Experience** - Tools and platforms that 10x productivity
-- 🔍 **Open Source** - Contributing to awesome lists, frameworks, and tooling
 
 ## 📫 Connect With Me
 
@@ -200,4 +240,4 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
   **Let's connect and build something amazing together!** 🚀
 </div>
 
-<!-- Last updated: 2025-10-28 00:28:21 UTC -->
+<!-- Last updated: 2025-10-28 09:00:00 UTC -->
