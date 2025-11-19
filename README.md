@@ -102,12 +102,12 @@ I'm a **Cloud & Platform Engineering Lead** who builds intelligent, scalable sys
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1763425813"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&cache=1763425813"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1763512259"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&cache=1763512259"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1763425813" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&cache=1763512259" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
@@ -164,14 +164,14 @@ Curated resources for developers - 8 comprehensive awesome lists:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight&cache=1763425813" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=tokyonight&cache=1763512259" alt="Profile Details" />
 </div>
 
 ### 📊 3D Contribution Calendar
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7&cache=1763425813" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tysoncung&theme=tokyonight&no-frame=true&column=7&cache=1763512259" alt="GitHub Trophies" />
 </div>
 
 ### 🔄 Recent Activity
@@ -241,4 +241,4 @@ Curated resources for developers - 8 comprehensive awesome lists:
   **Let's connect and build something amazing together!** 🚀
 </div>
 
-<!-- Last updated: 2025-11-18 00:30:13 UTC -->
+<!-- Last updated: 2025-11-19 00:31:00 UTC -->
