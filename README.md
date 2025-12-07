@@ -37,6 +37,9 @@ I curate resources for stuff I actually use:
 - **[daily-learning](https://github.com/tysoncung/daily-learning)** - Tracking my 30-day contribution streak (currently 23/30)
 - **AWS data platforms** - Production infrastructure for analytics and ML
 
+### Games
+- [![Google Play](https://img.shields.io/badge/Google_Play-Welder_Art_Challenges-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=weld.art.challenges) - Android puzzle game
+
 ## Current Streak
 
 🔥 **23 days** of daily contributions (goal: 30)
