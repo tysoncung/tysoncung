@@ -83,8 +83,8 @@ Mostly documentation, infrastructure code, and tooling improvements. Recent stuf
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1766622704"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&cache=1766622704"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache=1766709119"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&cache=1766709119"/>
 </div>
 
 ## Currently Learning
@@ -106,4 +106,4 @@ Mostly documentation, infrastructure code, and tooling improvements. Recent stuf
   <sub>Perth, WA 🦘 • Probably debugging something right now</sub>
 </div>
 
-<!-- Last updated: 2025-12-25 00:31:44 UTC -->
+<!-- Last updated: 2025-12-26 00:31:59 UTC -->
