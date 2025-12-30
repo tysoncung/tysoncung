@@ -23,25 +23,58 @@ Leading cloud infrastructure and AI initiatives at scale. Previously at Insuranc
 ## 🎯 Featured Projects
 
 ### 🌟 Curated Awesome Lists
+
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/tysoncung/awesome-ai-gadgets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tysoncung&repo=awesome-ai-gadgets&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/🤖_AI_Gadgets-NEW-brightgreen?style=for-the-badge" alt="AI Gadgets" />
+        <br /><br />
+        <b>awesome-ai-gadgets</b><br />
+        <sub>AI-powered gadgets & hardware<br />Consumer devices & dev tools</sub>
       </a>
-      <br /><sub><b>AI Gadgets & Hardware</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/tysoncung/awesome-vibe-coding">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tysoncung&repo=awesome-vibe-coding&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/✨_Vibe_Coding-8_stars-yellow?style=for-the-badge" alt="Vibe Coding" />
+        <br /><br />
+        <b>awesome-vibe-coding</b><br />
+        <sub>AI coding assistants<br />Cursor, Copilot, Windsurf</sub>
       </a>
-      <br /><sub><b>AI Coding Assistants</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/tysoncung/awesome-n8n">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tysoncung&repo=awesome-n8n&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/🔄_n8n-380+_resources-blue?style=for-the-badge" alt="n8n" />
+        <br /><br />
+        <b>awesome-n8n</b><br />
+        <sub>Workflow automation<br />Nodes, templates, guides</sub>
       </a>
-      <br /><sub><b>Workflow Automation</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/tysoncung/awesome-biostatistics">
+        <img src="https://img.shields.io/badge/🧬_Biostatistics-300+_tools-purple?style=for-the-badge" alt="Biostatistics" />
+        <br /><br />
+        <b>awesome-biostatistics</b><br />
+        <sub>Clinical trials & research<br />Statistical tools & compliance</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/tysoncung/awesome-devops-tools">
+        <img src="https://img.shields.io/badge/🚀_DevOps-Updated_2025-orange?style=for-the-badge" alt="DevOps Tools" />
+        <br /><br />
+        <b>awesome-devops-tools</b><br />
+        <sub>CI/CD, K8s, monitoring<br />Cloud native & AIOps</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/tysoncung/awesome-prompt-engineering">
+        <img src="https://img.shields.io/badge/🎯_Prompts-Engineering-red?style=for-the-badge" alt="Prompt Engineering" />
+        <br /><br />
+        <b>awesome-prompt-engineering</b><br />
+        <sub>LLM prompting techniques<br />Best practices & tools</sub>
+      </a>
     </td>
   </tr>
 </table>
