@@ -1,6 +1,6 @@
 # Hey, I'm Tyson 👋
 
-CPO at [hivo.co](https://hivo.co) in Perth, WA. Special focus on cloud, data, and engineering practices.
+CPO at [hivo.co](https://hivo.co) in Perth, WA. Special focus on cloud, data, AI, and engineering practices.
 
 <div align="center">
   
@@ -12,11 +12,11 @@ CPO at [hivo.co](https://hivo.co) in Perth, WA. Special focus on cloud, data, an
 
 ## What I'm Building
 
-As CPO at hivo.co, I drive our product strategy while staying hands-on with cloud infrastructure and engineering practices. Making sure our systems scale without falling over is still my favorite part. Previously built data platforms at Insurance Commission of WA. B.Sc Computer Science from NUS.
+As CPO at hivo.co, I drive our product strategy while staying hands-on with cloud infrastructure, AI systems, and engineering practices. Making sure our systems scale without falling over is still my favorite part, but building production AI that actually works is a close second. Previously built data platforms at Insurance Commission of WA. B.Sc Computer Science from NUS.
 
 **Day-to-day:**
+- Production AI/ML systems and LLM deployments
 - AWS infrastructure (the kind that actually stays up)
-- Production ML pipelines and LLM deployments
 - Kubernetes orchestration and container platforms
 - Real-time data analytics and streaming architectures
 
@@ -66,11 +66,11 @@ These lists started because I couldn't find good resources when I needed them. N
 
 ## What I'm Learning
 
-Currently diving into Rust for systems programming and exploring clinical data standards (FHIR, OMOP) for healthcare projects. Always interested in production ML challenges and making Kubernetes less painful.
+Deep diving into AI agents and RAG architectures, while exploring Rust for systems programming. Also getting into clinical data standards (FHIR, OMOP) for healthcare AI applications. Always interested in production ML challenges and making Kubernetes less painful.
 
 ## Get in Touch
 
-Best way to reach me is through GitHub or LinkedIn. Happy to chat about cloud infrastructure, production ML systems, or that one weird bug that only happens at 3am.
+Best way to reach me is through GitHub or LinkedIn. Happy to chat about AI systems, cloud infrastructure, production ML challenges, or that one weird LLM hallucination that only happens in prod.
 
 ---
 
