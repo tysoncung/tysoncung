@@ -1,6 +1,6 @@
 # Hey, I'm Tyson 👋
 
-Cloud & Data Engineering Lead at [hivo.co](https://hivo.co) in Perth, WA.
+CPO at [hivo.co](https://hivo.co) in Perth, WA. Special focus on cloud, data, and engineering practices.
 
 <div align="center">
   
@@ -12,7 +12,7 @@ Cloud & Data Engineering Lead at [hivo.co](https://hivo.co) in Perth, WA.
 
 ## What I'm Building
 
-Currently leading cloud infrastructure at hivo.co, focusing on making our systems handle scale without falling over. Previously built data platforms at Insurance Commission of WA. B.Sc Computer Science from NUS.
+As CPO at hivo.co, I drive our product strategy while staying hands-on with cloud infrastructure and engineering practices. Making sure our systems scale without falling over is still my favorite part. Previously built data platforms at Insurance Commission of WA. B.Sc Computer Science from NUS.
 
 **Day-to-day:**
 - AWS infrastructure (the kind that actually stays up)
