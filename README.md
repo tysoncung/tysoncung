@@ -74,10 +74,10 @@ Best way to reach me is through GitHub or LinkedIn. Happy to chat about AI syste
 
 ---
 
-<div align=&cache=1767487007"center">
+<div align=&cache=1767573353"center">
 
 Perth, WA 🦘 • [LinkedIn](https://www.linkedin.com/in/tysoncung/) • [Twitter](https://twitter.com/tscung)
 
 </div>
 
-<!-- Last updated: 2026-01-04 00:36:47 UTC -->
+<!-- Last updated: 2026-01-05 00:35:53 UTC -->
