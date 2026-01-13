@@ -36,9 +36,22 @@ These lists started because I couldn't find good resources when I needed them. N
 **More Lists:** [biostatistics](https://github.com/tysoncung/awesome-biostatistics) | [devops-tools](https://github.com/tysoncung/awesome-devops-tools) | [prompt-engineering](https://github.com/tysoncung/awesome-prompt-engineering) | [ai-agents](https://github.com/tysoncung/awesome-ai-agents)
 
 ### Other Stuff I've Built
-- **[n8n-mcp-demo](https://github.com/tysoncung/n8n-mcp-demo)** - Cross-platform workflow automation 
+- **[n8n-mcp-demo](https://github.com/tysoncung/n8n-mcp-demo)** - Cross-platform workflow automation
 - **[daily-learning](https://github.com/tysoncung/daily-learning)** - Tracking my 30-day contribution streak
 - **[Welder Art Challenges](https://play.google.com/store/apps/details?id=weld.art.challenges)** - Android puzzle game I made
+
+### Open Source Contributions
+
+Contributor to mass-adopted projects:
+
+| Project | Stars | What It Does |
+|---------|-------|--------------|
+| [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | 64K+ | The definitive Node.js resources list |
+| [tldr-pages](https://github.com/tldr-pages/tldr) | 60K+ | Simplified, community-driven man pages |
+| [pandas](https://github.com/pandas-dev/pandas) | 47K+ | Python data analysis library |
+| [awesome-readme](https://github.com/matiassingers/awesome-readme) | 20K+ | README examples and inspiration |
+| [ragas](https://github.com/explodinggradients/ragas) | 12K+ | LLM and RAG evaluation framework |
+| [stdlib-js](https://github.com/stdlib-js/stdlib) | 5.6K+ | JavaScript/Node.js standard library |
 
 ## GitHub Stats
 
