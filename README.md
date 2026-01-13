@@ -51,7 +51,11 @@ Contributor to mass-adopted projects:
 | [pandas](https://github.com/pandas-dev/pandas) | 47K+ | Python data analysis library |
 | [awesome-readme](https://github.com/matiassingers/awesome-readme) | 20K+ | README examples and inspiration |
 | [ragas](https://github.com/explodinggradients/ragas) | 12K+ | LLM and RAG evaluation framework |
+| [ccusage](https://github.com/ryoppippi/ccusage) | 9.7K+ | CLI tool for tracking API usage |
 | [stdlib-js](https://github.com/stdlib-js/stdlib) | 5.6K+ | JavaScript/Node.js standard library |
+| [awesome-typescript](https://github.com/dzharii/awesome-typescript) | 5K+ | TypeScript resources and tools |
+| [awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) | 1.7K+ | DynamoDB guides and resources |
+| [fedify](https://github.com/fedify-dev/fedify) | 900+ | ActivityPub federation framework |
 
 ## GitHub Stats
 
