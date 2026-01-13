@@ -60,10 +60,13 @@ Contributor to mass-adopted projects:
 ## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tysoncung&layout=compact&theme=dark&hide=html,css&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tysoncung&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tysoncung&theme=github_dark)
+
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
