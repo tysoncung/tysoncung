@@ -24,14 +24,14 @@ As CPO at hivo.co, I drive our product strategy while staying hands-on with clou
 
 ### Curated Lists I Maintain
 
-- **[awesome-ai-gadgets](https://github.com/tysoncung/awesome-ai-gadgets)** - AI-powered hardware and gadgets (just created today!)
-- **[awesome-vibe-coding](https://github.com/tysoncung/awesome-vibe-coding)** - AI coding assistants like Cursor, Copilot, Windsurf
+- **[awesome-vibe-coding](https://github.com/tysoncung/awesome-vibe-coding)** - AI coding assistants like Cursor, Copilot, Windsurf ⭐ 9 stars
+- **[awesome-ai-gadgets](https://github.com/tysoncung/awesome-ai-gadgets)** - AI-powered hardware and gadgets
 - **[awesome-n8n](https://github.com/tysoncung/awesome-n8n)** - 380+ workflow automation resources
+- **[awesome-devops-tools](https://github.com/tysoncung/awesome-devops-tools)** - Modern DevOps toolchain ⭐ 4 stars
 - **[awesome-biostatistics](https://github.com/tysoncung/awesome-biostatistics)** - Clinical trials and medical research tools
-- **[awesome-devops-tools](https://github.com/tysoncung/awesome-devops-tools)** - Modern DevOps toolchain (just updated with Q4 2025 tools)
 - **[awesome-prompt-engineering](https://github.com/tysoncung/awesome-prompt-engineering)** - LLM prompting techniques
 
-These lists started because I couldn't find good resources when I needed them. Now they help thousands of developers.
+These lists started because I couldn't find good resources when I needed them. Now they help thousands of developers across 20+ curated repositories.
 
 **More Lists:** [biostatistics](https://github.com/tysoncung/awesome-biostatistics) | [devops-tools](https://github.com/tysoncung/awesome-devops-tools) | [prompt-engineering](https://github.com/tysoncung/awesome-prompt-engineering) | [ai-agents](https://github.com/tysoncung/awesome-ai-agents)
 
@@ -59,10 +59,10 @@ These lists started because I couldn't find good resources when I needed them. N
 
 ## Recent Activity
 
-- Working on a 30-day contribution streak (currently day 23)
-- Just updated awesome-devops-tools with Q4 2025 tools
-- Created awesome-ai-gadgets today
-- Maintaining 20+ curated lists for the community
+- Updated awesome-vibe-coding for January 2026 with latest AI coding tools
+- Maintaining 20+ curated lists with 125+ followers
+- awesome-vibe-coding hit 9 stars - aiming for 100!
+- Exploring MCP (Model Context Protocol) integrations
 
 ## What I'm Learning
 
@@ -74,10 +74,10 @@ Best way to reach me is through GitHub or LinkedIn. Happy to chat about AI syste
 
 ---
 
-<div align=&cache=1768264154"center">
+<div align="center">
 
 Perth, WA 🦘 • [LinkedIn](https://www.linkedin.com/in/tysoncung/) • [Twitter](https://twitter.com/tscung)
 
 </div>
 
-<!-- Last updated: 2026-01-13 00:29:14 UTC -->
+<!-- Last updated: 2026-01-13 UTC -->
