@@ -79,10 +79,10 @@ Contributor to mass-adopted projects:
 
 ## Recent Activity
 
-- Updated awesome-vibe-coding for January 2026 with latest AI coding tools
+- Updated 4 awesome lists for January 2026 (vibe-coding, claude-ai, ai-gadgets, ai-agents)
+- Added CES 2026 AI wearables and gadgets coverage
 - Maintaining 20+ curated lists with 125+ followers
 - awesome-vibe-coding hit 9 stars - aiming for 100!
-- Exploring MCP (Model Context Protocol) integrations
 
 ## What I'm Learning
 
@@ -94,7 +94,7 @@ Best way to reach me is through GitHub or LinkedIn. Happy to chat about AI syste
 
 ---
 
-<div align=&cache=1768609886"center">
+<div align="center">
 
 Perth, WA 🦘 • [LinkedIn](https://www.linkedin.com/in/tysoncung/) • [Twitter](https://twitter.com/tscung)
 
