@@ -136,7 +136,7 @@ class TysonCung:
 
 ## Tech Stack
 
-<div align="center">
+<div align=&cache=1768696559"center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -165,8 +165,8 @@ class TysonCung:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1768696559" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache=1768696559" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tysoncung&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 
@@ -176,7 +176,7 @@ class TysonCung:
 <summary><b>More Stats</b></summary>
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1768696559" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tysoncung&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tysoncung&theme=github_dark" />
@@ -233,3 +233,5 @@ If you find my open source work helpful, consider supporting me!
 <sub>Last updated by GitHub Actions</sub>
 
 </div>
+
+<!-- Last updated: 2026-01-18 00:35:59 UTC -->
