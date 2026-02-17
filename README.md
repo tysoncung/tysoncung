@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tyson%20Cung&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CPO%20%7C%20AI%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Contributed+to+projects+with+220K%2B+stars;Maintaining+20%2B+awesome+curated+lists;AWS+4x+Certified+Cloud+Architect;Building+production+AI%2FML+systems;Open+source+advocate+from+Australia)](https://github.com/tysoncung)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Contributed+to+projects+with+600K%2B+stars;Maintaining+20%2B+awesome+curated+lists;AWS+4x+Certified+Cloud+Architect;Building+production+AI%2FML+systems;Open+source+advocate+from+Australia)](https://github.com/tysoncung)
 
 <br/>
 
@@ -46,7 +46,7 @@ class TysonCung:
 
     @property
     def open_source_impact(self):
-        return "220,000+ stars on contributed projects"
+        return "600,000+ stars on contributed projects"
 ```
 
 ---
@@ -70,7 +70,7 @@ class TysonCung:
 
 <div align="center">
 
-### Contributor to mass-adopted projects with **220,000+ combined stars**
+### Contributor to mass-adopted projects with **600,000+ combined stars**
 
 </div>
 
@@ -80,22 +80,24 @@ class TysonCung:
 
 | Project | Stars |
 |---------|:-----:|
-| [**awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs) | ![](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**tldr-pages**](https://github.com/tldr-pages/tldr) | ![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**pandas**](https://github.com/pandas-dev/pandas) | ![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**awesome-readme**](https://github.com/matiassingers/awesome-readme) | ![](https://img.shields.io/github/stars/matiassingers/awesome-readme?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**ragas**](https://github.com/explodinggradients/ragas) | ![](https://img.shields.io/github/stars/explodinggradients/ragas?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**huggingface/transformers**](https://github.com/huggingface/transformers) | ![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**ollama**](https://github.com/ollama/ollama) | ![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**langchain**](https://github.com/langchain-ai/langchain) | ![](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**dify**](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**meilisearch**](https://github.com/meilisearch/meilisearch) | ![](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**microsoft/autogen**](https://github.com/microsoft/autogen) | ![](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square&labelColor=1a1b27&color=58a6ff) |
 
 </td>
 <td width="50%">
 
 | Project | Stars |
 |---------|:-----:|
-| [**stdlib-js**](https://github.com/stdlib-js/stdlib) | ![](https://img.shields.io/github/stars/stdlib-js/stdlib?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**awesome-typescript**](https://github.com/dzharii/awesome-typescript) | ![](https://img.shields.io/github/stars/dzharii/awesome-typescript?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**ccusage**](https://github.com/ryoppippi/ccusage) | ![](https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**awesome-dynamodb**](https://github.com/alexdebrie/awesome-dynamodb) | ![](https://img.shields.io/github/stars/alexdebrie/awesome-dynamodb?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**fedify**](https://github.com/fedify-dev/fedify) | ![](https://img.shields.io/github/stars/fedify-dev/fedify?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**streamlit**](https://github.com/streamlit/streamlit) | ![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**openai-python**](https://github.com/openai/openai-python) | ![](https://img.shields.io/github/stars/openai/openai-python?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs) | ![](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**tldr-pages**](https://github.com/tldr-pages/tldr) | ![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**pandas**](https://github.com/pandas-dev/pandas) | ![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**anthropic/courses**](https://github.com/anthropics/courses) | ![](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=1a1b27&color=58a6ff) |
 
 </td>
 </tr>
