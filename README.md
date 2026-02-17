@@ -33,7 +33,8 @@ class TysonCung:
         self.role = "Chief Product Officer"
         self.company = "hivo.co"
         self.location = "Perth, Australia"
-        self.education = "B.Sc Computer Science, NUS"
+        self.education = ["M.Tech Software Engineering, NUS",
+                           "CDAIO (Chief Data & AI Officer), NUS"]
 
     @property
     def skills(self):
@@ -230,7 +231,7 @@ If you find my open source work helpful, consider supporting me!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Perth, Australia** | B.Sc Computer Science, NUS | CPO at [hivo.co](https://hivo.co)
+**Perth, Australia** | M.Tech Software Engineering, NUS | CDAIO Cert, NUS | CPO at [hivo.co](https://hivo.co)
 
 <sub>Last updated by GitHub Actions</sub>
 
