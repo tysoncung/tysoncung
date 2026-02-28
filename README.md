@@ -98,7 +98,7 @@ class TysonCung:
 | [**awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs) | ![](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs?style=flat-square&labelColor=1a1b27&color=58a6ff) |
 | [**tldr-pages**](https://github.com/tldr-pages/tldr) | ![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&labelColor=1a1b27&color=58a6ff) |
 | [**pandas**](https://github.com/pandas-dev/pandas) | ![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&labelColor=1a1b27&color=58a6ff) |
-| [**anthropic/courses**](https://github.com/anthropics/courses) | ![](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=1a1b27&color=58a6ff) |
+| [**directus**](https://github.com/directus/directus) | ![](https://img.shields.io/github/stars/directus/directus?style=flat-square&labelColor=1a1b27&color=58a6ff) |
 
 </td>
 </tr>
@@ -195,6 +195,35 @@ class TysonCung:
 
 </div>
 </details>
+
+---
+
+## My Products
+
+<div align="center">
+
+| | Product | Description |
+|:--:|---------|-------------|
+| :zap: | [**Serverless NestJS Starter Pro**](https://tysoncung.gumroad.com/l/serverless-nestjs-starter) | Production-ready NestJS + AWS Lambda + CDK. 4 auth modes, DynamoDB, SQS, WAF. **$49** |
+| :gear: | [**DDD Microservices Starter Kit**](https://tysoncung.gumroad.com/l/dddmsk) | Clean Architecture + DDD + Azure. **$39** |
+| :package: | [**excel-zod**](https://www.npmjs.com/package/excel-zod) | Read/write Excel with Zod validation. Free + Pro coming soon |
+| :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas |
+| :sunny: | [**Solar Arbitrage**](https://solar-arbitrage-web.vercel.app/) | Smart EV charging for AU solar owners. Free MVP |
+
+</div>
+
+---
+
+## Writing
+
+<div align="center">
+
+<a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+
+**Latest:** [How I built a production-ready serverless NestJS API on AWS](https://dev.to/tyson_cung/how-i-built-a-production-ready-serverless-nestjs-api-on-aws-and-open-sourced-it-5b29)
+
+</div>
 
 ---
 
