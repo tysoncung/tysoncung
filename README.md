@@ -204,10 +204,12 @@ class TysonCung:
 
 | | Product | Description |
 |:--:|---------|-------------|
+| :robot: | [**AI Platform AWS**](https://github.com/tysoncung/ai-platform-aws) | Production AI platform — Gateway, SDK, RAG, Agents. 6 providers, 112+ tests. **Open Source** |
+| :electric_plug: | [**MCP Server Starter Kit**](https://github.com/tysoncung/mcp-server-starter) | Production MCP servers with auth, rate limiting, 5 tools, dual transport. **Coming Soon** |
 | :zap: | [**Serverless NestJS Starter Pro**](https://tysoncung.gumroad.com/l/serverless-nestjs-starter) | Production-ready NestJS + AWS Lambda + CDK. 4 auth modes, DynamoDB, SQS, WAF. **$49** |
 | :gear: | [**DDD Microservices Starter Kit**](https://tysoncung.gumroad.com/l/dddmsk) | Clean Architecture + DDD + Azure. **$39** |
-| :package: | [**excel-zod**](https://www.npmjs.com/package/excel-zod) | Read/write Excel with Zod validation. Free + Pro coming soon |
-| :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas |
+| :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas. **npm** |
+| :bar_chart: | [**Schema Dashboard**](https://github.com/tysoncung/schema-dashboard) | Generate CRUD dashboards from Zod schemas. Free + Pro |
 | :sunny: | [**Solar Arbitrage**](https://solar-arbitrage-web.vercel.app/) | Smart EV charging for AU solar owners. Free MVP |
 
 </div>
@@ -221,7 +223,9 @@ class TysonCung:
 <a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
-**Latest:** [How I built a production-ready serverless NestJS API on AWS](https://dev.to/tyson_cung/how-i-built-a-production-ready-serverless-nestjs-api-on-aws-and-open-sourced-it-5b29)
+**Latest articles:**
+- [We Started With Lambdas — Here's What Broke](https://dev.to/tyson_cung/we-started-with-lambdas-heres-what-broke-2pmg)
+- [How I built a production-ready serverless NestJS API on AWS](https://dev.to/tyson_cung/how-i-built-a-production-ready-serverless-nestjs-api-on-aws-and-open-sourced-it-5b29)
 
 </div>
 
