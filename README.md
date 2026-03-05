@@ -210,7 +210,10 @@ class TysonCung:
 | :gear: | [**DDD Microservices Starter Kit**](https://tysoncung.gumroad.com/l/dddmsk) | Clean Architecture + DDD + Azure. **$39** |
 | :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas. **npm** |
 | :bar_chart: | [**Schema Dashboard**](https://github.com/tysoncung/schema-dashboard) | Generate CRUD dashboards from Zod schemas. Free + Pro |
+| :video_game: | [**GameOn**](https://github.com/tysoncung/gameon) | Pickup game coordinator — WhatsApp bot + web. Next.js + MongoDB + Twilio. **Open Source** |
+| :page_facing_up: | [**excel-zod**](https://github.com/tysoncung/excel-zod) | Type-safe Excel reading & writing with Zod schemas. **Open Source** |
 | :sunny: | [**Solar Arbitrage**](https://solar-arbitrage-web.vercel.app/) | Smart EV charging for AU solar owners. Free MVP |
+| :battery: | [**EV Solar Calc**](https://github.com/tysoncung/ev-solar-calc) | Battery payback calculator for AU solar + EV owners. Free |
 
 </div>
 
@@ -224,6 +227,8 @@ class TysonCung:
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [The TypeScript SDK — Making It Developer-Friendly](https://dev.to/tyson_cung/the-typescript-sdk-making-it-developer-friendly-3j89)
+- [From Lambdas to Agents — ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
 - [We Started With Lambdas — Here's What Broke](https://dev.to/tyson_cung/we-started-with-lambdas-heres-what-broke-2pmg)
 - [How I built a production-ready serverless NestJS API on AWS](https://dev.to/tyson_cung/how-i-built-a-production-ready-serverless-nestjs-api-on-aws-and-open-sourced-it-5b29)
 
@@ -270,4 +275,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-03-05 00:39:39 UTC -->
+<!-- Last updated: 2026-03-05 11:56:00 UTC -->
