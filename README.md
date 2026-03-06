@@ -227,6 +227,7 @@ class TysonCung:
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [Cost Tracking, Auth & Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
 - [The TypeScript SDK — Making It Developer-Friendly](https://dev.to/tyson_cung/the-typescript-sdk-making-it-developer-friendly-3j89)
 - [From Lambdas to Agents — ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
 - [We Started With Lambdas — Here's What Broke](https://dev.to/tyson_cung/we-started-with-lambdas-heres-what-broke-2pmg)
@@ -275,4 +276,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-03-06 00:42:59 UTC -->
+<!-- Last updated: 2026-03-06 07:01:00 UTC -->
