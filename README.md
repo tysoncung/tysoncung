@@ -22,9 +22,7 @@
 <a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 <a href="mailto:tyson@hivo.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://youtube.com/@tysoncung"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 </div>
 
@@ -215,7 +213,7 @@ class TysonCung:
 | | Product | Description |
 |:--:|---------|-------------|
 | :robot: | [**AI Platform AWS**](https://github.com/tysoncung/ai-platform-aws) | Production AI platform — Gateway, SDK, RAG, Agents. 6 providers, 112+ tests. **Open Source** |
-| :electric_plug: | [**MCP Server Starter Kit**](https://github.com/tysoncung/mcp-server-starter) | Production MCP servers with auth, rate limiting, 5 tools, dual transport. **Coming Soon** |
+| :electric_plug: | [**MCP Server Starter Kit**](https://github.com/tysoncung/mcp-server-starter) | Production MCP servers with auth, rate limiting, 5 tools, dual transport. [**Free**](https://github.com/tysoncung/mcp-server-starter) / [**Pro $49**](https://tysoncung.gumroad.com/l/mcp-starter-pro) |
 | :zap: | [**Serverless NestJS Starter Pro**](https://tysoncung.gumroad.com/l/serverless-nestjs-starter) | Production-ready NestJS + AWS Lambda + CDK. 4 auth modes, DynamoDB, SQS, WAF. **$49** |
 | :gear: | [**DDD Microservices Starter Kit**](https://tysoncung.gumroad.com/l/dddmsk) | Clean Architecture + DDD + Azure. **$39** |
 | :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas. **npm** |
@@ -233,10 +231,10 @@ class TysonCung:
 
 <div align="center">
 
-<a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [I Built a Production MCP Server Kit — Here's What I Learned](https://dev.to/tyson_cung/i-built-a-production-mcp-server-kit-heres-what-i-learned-28km)
 - [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
 - [Cost Tracking, Auth & Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
 - [The TypeScript SDK — Making It Developer-Friendly](https://dev.to/tyson_cung/the-typescript-sdk-making-it-developer-friendly-3j89)
@@ -287,4 +285,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-03-10 00:36:05 UTC -->
+<!-- Last updated: 2026-03-10 07:00:30 UTC -->
