@@ -21,8 +21,8 @@
 <a href="https://youtube.com/@tysoncung"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+<a href="https://medium.com/@tysoncung"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:tyson@hivo.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 
 </div>
 
@@ -143,7 +143,7 @@ class TysonCung:
 
 ## Tech Stack
 
-<div align=&cache=1773275644"center">
+<div align=&cache=1773298894"center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -176,7 +176,7 @@ class TysonCung:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1773275644" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1773298894" />
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tysoncung&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
@@ -187,7 +187,7 @@ class TysonCung:
 <summary><b>More Stats</b></summary>
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1773275644" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1773298894" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tysoncung&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tysoncung&theme=github_dark" />
@@ -234,6 +234,7 @@ class TysonCung:
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [GPT-5.4 Just Dropped — Here's Everything Developers Need to Know](https://dev.to/tyson_cung/gpt-54-just-dropped-heres-everything-developers-need-to-know-1eni)
 - [I Built a Production MCP Server Kit — Here's What I Learned](https://dev.to/tyson_cung/i-built-a-production-mcp-server-kit-heres-what-i-learned-28km)
 - [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
 - [Cost Tracking, Auth & Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
@@ -285,4 +286,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-03-12 00:34:04 UTC -->
+<!-- Last updated: 2026-03-12 07:01:34 UTC -->
