@@ -219,6 +219,7 @@ class TysonCung:
 | :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas. **npm** |
 | :bar_chart: | [**Schema Dashboard**](https://github.com/tysoncung/schema-dashboard) | Generate CRUD dashboards from Zod schemas. Free + Pro |
 | :video_game: | [**GameOn**](https://github.com/tysoncung/gameon) | Pickup game coordinator — WhatsApp bot + web. Next.js + MongoDB + Twilio. **Open Source** |
+| :clapper: | [**ShortFactory Kids**](https://github.com/tysoncung/shortfactory-kids) | AI educational Shorts generator for children. Gemini 2.0 + Imagen 3 + Cloud TTS. **Open Source** |
 | :page_facing_up: | [**excel-zod**](https://github.com/tysoncung/excel-zod) | Type-safe Excel reading & writing with Zod schemas. **Open Source** |
 | :sunny: | [**Solar Arbitrage**](https://solar-arbitrage-web.vercel.app/) | Smart EV charging for AU solar owners. Free MVP |
 | :battery: | [**EV Solar Calc**](https://github.com/tysoncung/ev-solar-calc) | Battery payback calculator for AU solar + EV owners. Free |
@@ -234,13 +235,13 @@ class TysonCung:
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [A Grandmother Lost Her Home Because a Cop Trusted an Algorithm](https://dev.to/tyson_cung/a-grandmother-lost-her-home-because-a-cop-trusted-an-algorithm-210g)
+- [Apple M5 Fusion Architecture Explained - Two Dies, One Chip, Infinite Possibilities](https://dev.to/tyson_cung/apple-m5-fusion-architecture-explained-two-dies-one-chip-infinite-possibilities-o9e)
+- [Atlassian Fires 1,600 Engineers to Bet Everything on AI](https://dev.to/tyson_cung/atlassian-fires-1600-engineers-to-bet-everything-on-ai-the-new-playbook-2nnp)
 - [GPT-5.4 Just Dropped — Here's Everything Developers Need to Know](https://dev.to/tyson_cung/gpt-54-just-dropped-heres-everything-developers-need-to-know-1eni)
 - [I Built a Production MCP Server Kit — Here's What I Learned](https://dev.to/tyson_cung/i-built-a-production-mcp-server-kit-heres-what-i-learned-28km)
 - [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
 - [Cost Tracking, Auth & Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
-- [The TypeScript SDK — Making It Developer-Friendly](https://dev.to/tyson_cung/the-typescript-sdk-making-it-developer-friendly-3j89)
-- [From Lambdas to Agents — ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
-- [We Started With Lambdas — Here's What Broke](https://dev.to/tyson_cung/we-started-with-lambdas-heres-what-broke-2pmg)
 - [How I built a production-ready serverless NestJS API on AWS](https://dev.to/tyson_cung/how-i-built-a-production-ready-serverless-nestjs-api-on-aws-and-open-sourced-it-5b29)
 
 </div>
@@ -286,4 +287,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-03-13 00:39:21 UTC -->
+<!-- Last updated: 2026-03-14 00:18:00 UTC -->
