@@ -110,6 +110,23 @@ class TysonCung:
 
 ---
 
+## Recent Activity
+
+<div align="center">
+
+### 🔥 Latest Contributions (March 2026)
+
+</div>
+
+- 🎯 **Storybook** - Fixed Vue3 reactive globals desync issue ([PR #34347](https://github.com/storybookjs/storybook/pull/34347))
+- 🧪 **Optuna** - Added `__future__` annotations to pruners & terminator modules ([PR #6590](https://github.com/optuna/optuna/pull/6590))
+- 🥋 **Kana Dojo** - Japanese learning platform contribution ([PR #10498](https://github.com/lingdojo/kana-dojo/pull/10498))
+- ⚡ **OracleTrace** - Python performance regression tool ([PR #10](https://github.com/KaykCaputo/oracletrace/pull/10))
+- 🎫 **TokenBound** - Event management & ticketing platform fixes ([PR #118](https://github.com/crowdpass-live/tokenbound_impl/pull/118), [PR #119](https://github.com/crowdpass-live/tokenbound_impl/pull/119))
+- 🌾 **Amana** - Stellar blockchain escrow protocol ([PR #161](https://github.com/KingFRANKHOOD/Amana/pull/161))
+
+---
+
 ## Awesome Lists I Maintain
 
 > Helping thousands of developers find the best tools
@@ -287,4 +304,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-03-28 00:41:21 UTC -->
+<!-- Last updated: 2026-03-28 07:00:00 UTC -->
