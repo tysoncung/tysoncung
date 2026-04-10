@@ -118,12 +118,12 @@ class TysonCung:
 
 </div>
 
-- 🎯 **Storybook** - Fixed Vue3 reactive globals desync issue ([PR #34347](https://github.com/storybookjs/storybook/pull/34347))
-- 🧪 **Optuna** - Added `__future__` annotations to pruners & terminator modules ([PR #6590](https://github.com/optuna/optuna/pull/6590))
-- 🥋 **Kana Dojo** - Japanese learning platform contribution ([PR #10498](https://github.com/lingdojo/kana-dojo/pull/10498))
-- ⚡ **OracleTrace** - Python performance regression tool ([PR #10](https://github.com/KaykCaputo/oracletrace/pull/10))
-- 🎫 **TokenBound** - Event management & ticketing platform fixes ([PR #118](https://github.com/crowdpass-live/tokenbound_impl/pull/118), [PR #119](https://github.com/crowdpass-live/tokenbound_impl/pull/119))
-- 🌾 **Amana** - Stellar blockchain escrow protocol ([PR #161](https://github.com/KingFRANKHOOD/Amana/pull/161))
+- 🖥️ **VS Code** - Fixed server handling of quoted ID values in /etc/os-release ([PR #308001](https://github.com/microsoft/vscode/pull/308001))
+- 🔧 **pydantic/bump-pydantic** - Fixed bare @root_validator without parentheses ([PR #174](https://github.com/pydantic/bump-pydantic/pull/174))
+- 📦 **pip-tools** - Added table of contents to README + shell completion docs ([PR #2370](https://github.com/jazzband/pip-tools/pull/2370), [PR #2371](https://github.com/jazzband/pip-tools/pull/2371))
+- 🕷️ **Scrapy** - Added Windows note for 'python -m scrapy' alternative ([PR #7397](https://github.com/scrapy/scrapy/pull/7397))
+- 🌊 **Streamlit** - Added border-radius rounding to st.video and st.map ([PR #14626](https://github.com/streamlit/streamlit/pull/14626))
+- ⚡ **PyTorch** - Removed fp8 special handling in inductor signature_of ([PR #179248](https://github.com/pytorch/pytorch/pull/179248))
 
 ---
 
@@ -160,7 +160,7 @@ class TysonCung:
 
 ## Tech Stack
 
-<div align=&cache=1775781916"center">
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -193,7 +193,7 @@ class TysonCung:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1775781916" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tysoncung&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
@@ -204,7 +204,7 @@ class TysonCung:
 <summary><b>More Stats</b></summary>
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1775781916" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tysoncung&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tysoncung&theme=github_dark" />
@@ -304,4 +304,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-04-10 00:45:16 UTC -->
+<!-- Last updated: 2026-04-10 07:03:00 UTC -->
