@@ -160,7 +160,7 @@ class TysonCung:
 
 ## Tech Stack
 
-<div align=&cache=1775868231"center">
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -231,6 +231,7 @@ class TysonCung:
 |:--:|---------|-------------|
 | :robot: | [**AI Platform AWS**](https://github.com/tysoncung/ai-platform-aws) | Production AI platform — Gateway, SDK, RAG, Agents. 6 providers, 112+ tests. **Open Source** |
 | :electric_plug: | [**MCP Server Starter Kit**](https://github.com/tysoncung/mcp-server-starter) | Production MCP servers with auth, rate limiting, 5 tools, dual transport. [**Free**](https://github.com/tysoncung/mcp-server-starter) / [**Pro $49**](https://tysoncung.gumroad.com/l/mcp-starter-pro) |
+| :thought_balloon: | [**Notion Agent Hub**](https://github.com/tysoncung/notion-agent-hub) | AI Agent Hub for Notion — orchestrate AI agents through Notion databases with human-in-the-loop approval. MCP-powered. **Open Source** |
 | :zap: | [**Serverless NestJS Starter Pro**](https://tysoncung.gumroad.com/l/serverless-nestjs-starter) | Production-ready NestJS + AWS Lambda + CDK. 4 auth modes, DynamoDB, SQS, WAF. **$49** |
 | :gear: | [**DDD Microservices Starter Kit**](https://tysoncung.gumroad.com/l/dddmsk) | Clean Architecture + DDD + Azure. **$39** |
 | :wrench: | [**zapit**](https://www.npmjs.com/package/@tysoncung/zapit) | Generate NestJS CRUD APIs from Zod schemas. **npm** |
