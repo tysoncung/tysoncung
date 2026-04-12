@@ -124,6 +124,7 @@ class TysonCung:
 - 🕷️ **Scrapy** - Added Windows note for 'python -m scrapy' alternative ([PR #7397](https://github.com/scrapy/scrapy/pull/7397))
 - 🌊 **Streamlit** - Added border-radius rounding to st.video and st.map ([PR #14626](https://github.com/streamlit/streamlit/pull/14626))
 - ⚡ **PyTorch** - Removed fp8 special handling in inductor signature_of ([PR #179248](https://github.com/pytorch/pytorch/pull/179248))
+- 📐 **simple-equ** - Added probability(), arctan2(), and arcsin() functions ([PR #113](https://github.com/antfullstack/simple-equ/pull/113), [PR #114](https://github.com/antfullstack/simple-equ/pull/114), [PR #115](https://github.com/antfullstack/simple-equ/pull/115))
 
 ---
 
@@ -253,14 +254,14 @@ class TysonCung:
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [How APIs Actually Work — The Simplest Explanation You'll Find](https://dev.to/tyson_cung/how-apis-actually-work-the-simplest-explanation-youll-find-1n4f)
+- [Claude Code vs Codex CLI — Two Terminal Coding Agents, One Honest Comparison](https://dev.to/tyson_cung/claude-code-vs-codex-cli-two-terminal-coding-agents-one-honest-comparison-1l37)
+- [Your Dashboard Numbers Are Wrong — And Your Team Is Making Decisions Based on Them](https://dev.to/tyson_cung/your-dashboard-numbers-are-wrong-and-your-team-is-making-decisions-based-on-them-3h8b)
+- [AWS vs Azure vs GCP — Which Cloud Should You Learn in 2026?](https://dev.to/tyson_cung/aws-vs-azure-vs-gcp-which-cloud-should-you-learn-in-2026-576l)
+- [Windsurf vs Cursor — Two AI IDEs Walk Into a Bar](https://dev.to/tyson_cung/windsurf-vs-cursor-two-ai-ides-walk-into-a-bar-2mje)
 - [A Grandmother Lost Her Home Because a Cop Trusted an Algorithm](https://dev.to/tyson_cung/a-grandmother-lost-her-home-because-a-cop-trusted-an-algorithm-210g)
 - [Apple M5 Fusion Architecture Explained - Two Dies, One Chip, Infinite Possibilities](https://dev.to/tyson_cung/apple-m5-fusion-architecture-explained-two-dies-one-chip-infinite-possibilities-o9e)
 - [Atlassian Fires 1,600 Engineers to Bet Everything on AI](https://dev.to/tyson_cung/atlassian-fires-1600-engineers-to-bet-everything-on-ai-the-new-playbook-2nnp)
-- [GPT-5.4 Just Dropped — Here's Everything Developers Need to Know](https://dev.to/tyson_cung/gpt-54-just-dropped-heres-everything-developers-need-to-know-1eni)
-- [I Built a Production MCP Server Kit — Here's What I Learned](https://dev.to/tyson_cung/i-built-a-production-mcp-server-kit-heres-what-i-learned-28km)
-- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
-- [Cost Tracking, Auth & Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
-- [How I built a production-ready serverless NestJS API on AWS](https://dev.to/tyson_cung/how-i-built-a-production-ready-serverless-nestjs-api-on-aws-and-open-sourced-it-5b29)
 
 </div>
 
@@ -305,4 +306,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-04-12 00:49:33 UTC -->
+<!-- Last updated: 2026-04-12 07:01:00 UTC -->
