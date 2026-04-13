@@ -118,10 +118,11 @@ class TysonCung:
 
 </div>
 
+- 🌬️ **Apache Airflow** - Fixed duplicate Date headers in webserver responses ([PR #65086](https://github.com/apache/airflow/pull/65086))
+- 🌬️ **Apache Airflow** - Fixed dropdown visibility in connection forms UI ([PR #65085](https://github.com/apache/airflow/pull/65085))
 - 🖥️ **VS Code** - Fixed server handling of quoted ID values in /etc/os-release ([PR #308001](https://github.com/microsoft/vscode/pull/308001))
 - 🔧 **pydantic/bump-pydantic** - Fixed bare @root_validator without parentheses ([PR #174](https://github.com/pydantic/bump-pydantic/pull/174))
 - 📦 **pip-tools** - Added table of contents to README + shell completion docs ([PR #2370](https://github.com/jazzband/pip-tools/pull/2370), [PR #2371](https://github.com/jazzband/pip-tools/pull/2371))
-- 🕷️ **Scrapy** - Added Windows note for 'python -m scrapy' alternative ([PR #7397](https://github.com/scrapy/scrapy/pull/7397))
 - 🌊 **Streamlit** - Added border-radius rounding to st.video and st.map ([PR #14626](https://github.com/streamlit/streamlit/pull/14626))
 - ⚡ **PyTorch** - Removed fp8 special handling in inductor signature_of ([PR #179248](https://github.com/pytorch/pytorch/pull/179248))
 - 📐 **simple-equ** - Added probability(), arctan2(), and arcsin() functions ([PR #113](https://github.com/antfullstack/simple-equ/pull/113), [PR #114](https://github.com/antfullstack/simple-equ/pull/114), [PR #115](https://github.com/antfullstack/simple-equ/pull/115))
@@ -306,4 +307,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-04-13 00:50:07 UTC -->
+<!-- Last updated: 2026-04-13 07:01:00 UTC -->
