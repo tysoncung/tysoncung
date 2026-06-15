@@ -110,6 +110,33 @@ class TysonCung:
 
 ---
 
+---
+
+## Latest Videos 🎥
+
+<div align="center">
+
+<a href="https://youtube.com/@tysoncung?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://youtu.be/1r47iYuENPI"><img src="https://img.youtube.com/vi/1r47iYuENPI/mqdefault.jpg" width="30%" /></a> <a href="https://youtu.be/JYNblcTN8Ks"><img src="https://img.youtube.com/vi/JYNblcTN8Ks/mqdefault.jpg" width="30%" /></a> <a href="https://youtu.be/Zn1xQiHyoFI"><img src="https://img.youtube.com/vi/Zn1xQiHyoFI/mqdefault.jpg" width="30%" /></a>
+
+<br/>
+
+<a href="https://youtu.be/9V7rd0JMBXM"><img src="https://img.youtube.com/vi/9V7rd0JMBXM/mqdefault.jpg" width="30%" /></a> <a href="https://youtu.be/GtCgoXCp75s"><img src="https://img.youtube.com/vi/GtCgoXCp75s/mqdefault.jpg" width="30%" /></a> <a href="https://youtu.be/2rRsdSIYJNg"><img src="https://img.youtube.com/vi/2rRsdSIYJNg/mqdefault.jpg" width="30%" /></a>
+
+<br/>
+
+</div>
+
+<sub>Auto-updated from [https://youtube.com/@tysoncung](https://youtube.com/@tysoncung)</sub>
+
+
 ## Recent Activity
 
 <div align="center">
@@ -307,4 +334,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-06-15 01:15:12 UTC -->
+<!-- Last updated: 2026-06-15 09:49:28 UTC -->
