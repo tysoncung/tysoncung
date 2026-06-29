@@ -17,6 +17,7 @@
 <br/><br/>
 
 <a href="https://twitter.com/tscung"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://tiktok.com/@tysoncung"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/tysoncung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://youtube.com/@tysoncung"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://dev.to/tyson_cung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
@@ -141,18 +142,18 @@ class TysonCung:
 
 <div align="center">
 
-### 🔥 Latest Contributions (April 2026)
+### 🔥 Latest Contributions (June 2026)
 
 </div>
 
+- ☁️ **Apache Airflow** - Widen type hint for DagRun.get_task_instances state parameter ([PR #67880](https://github.com/apache/airflow/pull/67880))
+- 🤖 **BerriAI/litellm** - Propagate upstream status code in proxy exception handler ([PR #29402](https://github.com/BerriAI/litellm/pull/29402))
+- 🧠 **Microsoft AutoGen** - Fix LangChainToolAdapter pydantic schema error for tools with internal fields ([PR #7808](https://github.com/microsoft/autogen/pull/7808))
+- 🧠 **Microsoft AutoGen** - Fix typos: overriden → overridden, independantly → independently ([PR #7809](https://github.com/microsoft/autogen/pull/7809))
+- 📋 **Appwrite** - Validate session expiry during JWT authentication ([PR #12505](https://github.com/appwrite/appwrite/pull/12505))
 - 🌬️ **Apache Airflow** - Fixed duplicate Date headers in webserver responses ([PR #65086](https://github.com/apache/airflow/pull/65086))
-- 🌬️ **Apache Airflow** - Fixed dropdown visibility in connection forms UI ([PR #65085](https://github.com/apache/airflow/pull/65085))
-- 🖥️ **VS Code** - Fixed server handling of quoted ID values in /etc/os-release ([PR #308001](https://github.com/microsoft/vscode/pull/308001))
-- 🔧 **pydantic/bump-pydantic** - Fixed bare @root_validator without parentheses ([PR #174](https://github.com/pydantic/bump-pydantic/pull/174))
 - 📦 **pip-tools** - Added table of contents to README + shell completion docs ([PR #2370](https://github.com/jazzband/pip-tools/pull/2370), [PR #2371](https://github.com/jazzband/pip-tools/pull/2371))
 - 🌊 **Streamlit** - Added border-radius rounding to st.video and st.map ([PR #14626](https://github.com/streamlit/streamlit/pull/14626))
-- ⚡ **PyTorch** - Removed fp8 special handling in inductor signature_of ([PR #179248](https://github.com/pytorch/pytorch/pull/179248))
-- 📐 **simple-equ** - Added probability(), arctan2(), and arcsin() functions ([PR #113](https://github.com/antfullstack/simple-equ/pull/113), [PR #114](https://github.com/antfullstack/simple-equ/pull/114), [PR #115](https://github.com/antfullstack/simple-equ/pull/115))
 
 ---
 
@@ -334,4 +335,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-06-29 01:08:28 UTC -->
+<!-- Last updated: 2026-06-29 13:30:00 UTC -->
