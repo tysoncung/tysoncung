@@ -302,6 +302,7 @@ Every game has daily rewards, rotating daily quests, and atomic DataStore persis
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
+- [The Engineering Behind an AI Agent That Ships Real Roblox Games](https://dev.to/tyson_cung/the-engineering-behind-an-ai-agent-that-ships-real-roblox-games-k50)
 - [How APIs Actually Work — The Simplest Explanation You'll Find](https://dev.to/tyson_cung/how-apis-actually-work-the-simplest-explanation-youll-find-1n4f)
 - [Claude Code vs Codex CLI — Two Terminal Coding Agents, One Honest Comparison](https://dev.to/tyson_cung/claude-code-vs-codex-cli-two-terminal-coding-agents-one-honest-comparison-1l37)
 - [Your Dashboard Numbers Are Wrong — And Your Team Is Making Decisions Based on Them](https://dev.to/tyson_cung/your-dashboard-numbers-are-wrong-and-your-team-is-making-decisions-based-on-them-3h8b)
