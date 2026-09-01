@@ -276,6 +276,25 @@ class TysonCung:
 
 ---
 
+## Placeforge: AI-Built Roblox Games
+
+<div align="center">
+
+**I'm building Placeforge, an AI agent that plans, builds, tests, and publishes Roblox games inside Roblox Studio.**
+
+It composes from a library of 136 hand-crafted, headless-tested Luau kits across 17 families, verifies its own builds with a playtest-and-repair loop, and deploys through the Roblox Open Cloud API. The proof is live: these games were built by the agent, end to end.
+
+| | Game | What the agent shipped |
+|:--:|------|------------------------|
+| 🐾 | [**Paws and Bubbles Daycare**](https://www.roblox.com/games/116146617626130) | Pet daycare: adoption, care stations, boutique, Best in Show contest, persistent saves, server-validated monetization |
+| 🏝️ | [**Treasure Cove**](https://www.roblox.com/games/94845747826419) | Hidden-object hunt: a 700x700 island hiding 45 tiered treasures across a port village, shipwreck, and temple |
+
+Every game has daily rewards, rotating daily quests, and atomic DataStore persistence, all composed from the same kit library. A third game (an Australian outback tycoon) is next.
+
+</div>
+
+---
+
 ## Writing
 
 <div align="center">
