@@ -111,8 +111,6 @@ class TysonCung:
 
 ---
 
----
-
 ## Latest Videos 🎥
 
 <div align="center">
@@ -142,10 +140,21 @@ class TysonCung:
 
 <div align="center">
 
-### 🔥 Latest Contributions (June 2026)
+### 🚀 Recently Shipped
 
 </div>
 
+- 🔀 **[Claude Config Switcher](https://github.com/tysoncung/claude-config-switcher) v1.2.3** - VS Code extension for separate Claude Code accounts per window or project, now on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TysonCung.cc-config-switcher) and [Open VSX](https://open-vsx.org/extension/tysoncung/cc-config-switcher) (Cursor, Windsurf, VSCodium)
+- 🧰 **[awesome-vibe-coding](https://github.com/tysoncung/awesome-vibe-coding)** - 8 new AI coding tools added, including Orbi, Frink, OrcaReplay and Oh My Android
+
+<div align="center">
+
+### 🔥 Latest Contributions
+
+</div>
+
+- 🦜 **LangChain.js** - Strip the type field from Google executableCode and codeExecutionResult parts ([PR #10586](https://github.com/langchain-ai/langchainjs/pull/10586))
+- 👁️ **Kornia** - Add correlate2d/convolve2d/correlate3d/convolve3d filter aliases ([PR #3604](https://github.com/kornia/kornia/pull/3604))
 - ☁️ **Apache Airflow** - Widen type hint for DagRun.get_task_instances state parameter ([PR #67880](https://github.com/apache/airflow/pull/67880))
 - 🤖 **BerriAI/litellm** - Propagate upstream status code in proxy exception handler ([PR #29402](https://github.com/BerriAI/litellm/pull/29402))
 - 🧠 **Microsoft AutoGen** - Fix LangChainToolAdapter pydantic schema error for tools with internal fields ([PR #7808](https://github.com/microsoft/autogen/pull/7808))
@@ -165,7 +174,7 @@ class TysonCung:
 
 | | List | Description |
 |:--:|------|-------------|
-| <img src="https://img.shields.io/github/stars/tysoncung/awesome-vibe-coding?style=social" /> | [**awesome-vibe-coding**](https://github.com/tysoncung/awesome-vibe-coding) | 100+ AI coding tools - Cursor, Copilot, Windsurf |
+| <img src="https://img.shields.io/github/stars/tysoncung/awesome-vibe-coding?style=social" /> | [**awesome-vibe-coding**](https://github.com/tysoncung/awesome-vibe-coding) | 230+ AI coding tools - Claude Code, Cursor, Copilot, Windsurf |
 | <img src="https://img.shields.io/github/stars/tysoncung/awesome-ai-gadgets?style=social" /> | [**awesome-ai-gadgets**](https://github.com/tysoncung/awesome-ai-gadgets) | CES 2026 AI wearables & hardware |
 | <img src="https://img.shields.io/github/stars/tysoncung/awesome-claude-ai?style=social" /> | [**awesome-claude-ai**](https://github.com/tysoncung/awesome-claude-ai) | Claude Opus 4.5 tools & resources |
 | <img src="https://img.shields.io/github/stars/tysoncung/awesome-ai-agents?style=social" /> | [**awesome-ai-agents**](https://github.com/tysoncung/awesome-ai-agents) | AI agent frameworks & browser automation |
@@ -190,7 +199,7 @@ class TysonCung:
 
 ## Tech Stack
 
-<div align=&cache=1792987350"center">
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -259,6 +268,7 @@ class TysonCung:
 
 | | Product | Description |
 |:--:|---------|-------------|
+| :twisted_rightwards_arrows: | [**Claude Config Switcher**](https://github.com/tysoncung/claude-config-switcher) | VS Code extension: a different Claude Code account per window or project, from the status bar. [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=TysonCung.cc-config-switcher) / [**Open VSX**](https://open-vsx.org/extension/tysoncung/cc-config-switcher). **Open Source** |
 | :robot: | [**AI Platform AWS**](https://github.com/tysoncung/ai-platform-aws) | Production AI platform — Gateway, SDK, RAG, Agents. 6 providers, 112+ tests. **Open Source** |
 | :electric_plug: | [**MCP Server Starter Kit**](https://github.com/tysoncung/mcp-server-starter) | Production MCP servers with auth, rate limiting, 5 tools, dual transport. [**Free**](https://github.com/tysoncung/mcp-server-starter) / [**Pro $49**](https://tysoncung.gumroad.com/l/mcp-starter-pro) |
 | :thought_balloon: | [**Notion Agent Hub**](https://github.com/tysoncung/notion-agent-hub) | AI Agent Hub for Notion — orchestrate AI agents through Notion databases with human-in-the-loop approval. MCP-powered. **Open Source** |

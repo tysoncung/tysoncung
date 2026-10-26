@@ -60,35 +60,35 @@ jobs:
           
           # Update GitHub Stats
           content = re.sub(
-              r'(github-readme-stats\.vercel\.app/api\?username=tysoncung[^"]*)',
+              r'(github-readme-stats\.vercel\.app/api\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           # Update Top Languages
           content = re.sub(
-              r'(github-readme-stats\.vercel\.app/api/top-langs/\?username=tysoncung[^"]*)',
+              r'(github-readme-stats\.vercel\.app/api/top-langs/\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           # Update Streak Stats
           content = re.sub(
-              r'(github-readme-streak-stats\.herokuapp\.com/\?user=tysoncung[^"]*)',
+              r'(github-readme-streak-stats\.herokuapp\.com/\?user=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           # Update Profile Summary Cards
           content = re.sub(
-              r'(github-profile-summary-cards\.vercel\.app/api/cards/profile-details\?username=tysoncung[^"]*)',
+              r'(github-profile-summary-cards\.vercel\.app/api/cards/profile-details\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           # Update Trophy
           content = re.sub(
-              r'(github-profile-trophy\.vercel\.app/\?username=tysoncung[^"]*)',
+              r'(github-profile-trophy\.vercel\.app/\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
@@ -179,31 +179,31 @@ jobs:
           
           # Update all stats URLs with cache-busting parameter
           content = re.sub(
-              r'(github-readme-stats\.vercel\.app/api\?username=tysoncung[^"]*)',
+              r'(github-readme-stats\.vercel\.app/api\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           content = re.sub(
-              r'(github-readme-stats\.vercel\.app/api/top-langs/\?username=tysoncung[^"]*)',
+              r'(github-readme-stats\.vercel\.app/api/top-langs/\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           content = re.sub(
-              r'(github-readme-streak-stats\.herokuapp\.com/\?user=tysoncung[^"]*)',
+              r'(github-readme-streak-stats\.herokuapp\.com/\?user=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           content = re.sub(
-              r'(github-profile-summary-cards\.vercel\.app/api/cards/profile-details\?username=tysoncung[^"]*)',
+              r'(github-profile-summary-cards\.vercel\.app/api/cards/profile-details\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
           
           content = re.sub(
-              r'(github-profile-trophy\.vercel\.app/\?username=tysoncung[^"]*)',
+              r'(github-profile-trophy\.vercel\.app/\?username=tysoncung[^")\s]*)',
               lambda m: m.group(1).split('&cache')[0] + f'&cache={timestamp}',
               content
           )
