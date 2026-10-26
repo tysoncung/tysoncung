@@ -312,15 +312,17 @@ Every game has daily rewards, rotating daily quests, and atomic DataStore persis
 <a href="https://tysoncung.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
 
 **Latest articles:**
-- [The Engineering Behind an AI Agent That Ships Real Roblox Games](https://dev.to/tyson_cung/the-engineering-behind-an-ai-agent-that-ships-real-roblox-games-k50)
-- [How APIs Actually Work — The Simplest Explanation You'll Find](https://dev.to/tyson_cung/how-apis-actually-work-the-simplest-explanation-youll-find-1n4f)
-- [Claude Code vs Codex CLI — Two Terminal Coding Agents, One Honest Comparison](https://dev.to/tyson_cung/claude-code-vs-codex-cli-two-terminal-coding-agents-one-honest-comparison-1l37)
-- [Your Dashboard Numbers Are Wrong — And Your Team Is Making Decisions Based on Them](https://dev.to/tyson_cung/your-dashboard-numbers-are-wrong-and-your-team-is-making-decisions-based-on-them-3h8b)
-- [AWS vs Azure vs GCP — Which Cloud Should You Learn in 2026?](https://dev.to/tyson_cung/aws-vs-azure-vs-gcp-which-cloud-should-you-learn-in-2026-576l)
-- [Windsurf vs Cursor — Two AI IDEs Walk Into a Bar](https://dev.to/tyson_cung/windsurf-vs-cursor-two-ai-ides-walk-into-a-bar-2mje)
-- [A Grandmother Lost Her Home Because a Cop Trusted an Algorithm](https://dev.to/tyson_cung/a-grandmother-lost-her-home-because-a-cop-trusted-an-algorithm-210g)
-- [Apple M5 Fusion Architecture Explained - Two Dies, One Chip, Infinite Possibilities](https://dev.to/tyson_cung/apple-m5-fusion-architecture-explained-two-dies-one-chip-infinite-possibilities-o9e)
-- [Atlassian Fires 1,600 Engineers to Bet Everything on AI](https://dev.to/tyson_cung/atlassian-fires-1600-engineers-to-bet-everything-on-ai-the-new-playbook-2nnp)
+- [Apple M6: Why There Will Never Be an M6 Pro](https://dev.to/tyson_cung/apple-m6-why-there-will-never-be-an-m6-pro-4fdf)
+- [The Vibe Coding Landscape Changed Under Our Feet. Here Is the Map.](https://dev.to/tyson_cung/the-vibe-coding-landscape-changed-under-our-feet-here-is-the-map-21kn)
+- [The engineering behind an AI agent that ships real Roblox games](https://dev.to/tyson_cung/the-engineering-behind-an-ai-agent-that-ships-real-roblox-games-k50)
+- [Can a Mac mini run Kimi K3? I did the memory math](https://dev.to/tyson_cung/can-a-mac-mini-run-kimi-k3-i-did-the-memory-math-4bp3)
+- [How to Block Dangerous Commands with Claude Code Hooks](https://dev.to/tyson_cung/how-to-block-dangerous-commands-with-claude-code-hooks-g5o)
+- [My tests passed 18 out of 18. The service deletes your database on startup](https://dev.to/tyson_cung/my-tests-passed-18-out-of-18-the-service-deletes-your-database-on-startup-4nhc)
+- [An agent documented my app, found 4 bugs I did not know about, then rebuilt it from the docs](https://dev.to/tyson_cung/an-agent-documented-my-app-found-4-bugs-i-did-not-know-about-then-rebuilt-it-from-the-docs-5bl9)
+- [I deleted my source code and regenerated it in a different language](https://dev.to/tyson_cung/i-deleted-my-source-code-and-regenerated-it-in-a-different-language-17aa)
+- [Claude Code vs Cursor vs Copilot: How to Choose the Right AI Coding Assistant in 2026](https://dev.to/tyson_cung/claude-code-vs-cursor-vs-copilot-how-to-choose-the-right-ai-coding-assistant-in-2026-24jd)
+
+[**All articles on dev.to →**](https://dev.to/tyson_cung)
 
 </div>
 
