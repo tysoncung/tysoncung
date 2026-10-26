@@ -191,7 +191,7 @@ class TysonCung:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tysoncung&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&cache=1793035917)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tysoncung&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&cache=1793035930)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -232,7 +232,7 @@ class TysonCung:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1793035917" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1793035930" />
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tysoncung&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
@@ -243,7 +243,7 @@ class TysonCung:
 <summary><b>More Stats</b></summary>
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1793035917" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1793035930" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tysoncung&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tysoncung&theme=github_dark" />
@@ -365,4 +365,4 @@ If you find my open source work helpful, consider supporting me!
 
 </div>
 
-<!-- Last updated: 2026-10-26 17:31:57 UTC -->
+<!-- Last updated: 2026-10-26 17:32:10 UTC -->
