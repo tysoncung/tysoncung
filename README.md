@@ -304,6 +304,11 @@ The system knowledge is the versioned, governed source. Implementations are veri
 | :recycle: | [**regen-engineering-demo**](https://github.com/tysoncung/regen-engineering-demo) | Two implementations, one contract suite, same knowledge: delete an implementation and regenerate it |
 | :floppy_disk: | [**regen-engineering-stateful**](https://github.com/tysoncung/regen-engineering-stateful) | Reference system for REP-0005: what the method says about systems that own data |
 
+**Writing about it:**
+- [I deleted my source code and regenerated it in a different language](https://dev.to/tyson_cung/i-deleted-my-source-code-and-regenerated-it-in-a-different-language-17aa)
+- [An agent documented my app, found 4 bugs I did not know about, then rebuilt it from the docs](https://dev.to/tyson_cung/an-agent-documented-my-app-found-4-bugs-i-did-not-know-about-then-rebuilt-it-from-the-docs-5bl9)
+- [My tests passed 18 out of 18. The service deletes your database on startup](https://dev.to/tyson_cung/my-tests-passed-18-out-of-18-the-service-deletes-your-database-on-startup-4nhc)
+
 </div>
 
 ---
