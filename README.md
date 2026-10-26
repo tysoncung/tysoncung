@@ -286,6 +286,28 @@ class TysonCung:
 
 ---
 
+## Regen Engineering
+
+<div align="center">
+
+**[Regen Engineering](https://regen.engineering/) is an open methodology I'm developing for owning software as knowledge.**
+
+*Knowledge is the asset. Code is the byproduct.*
+
+The system knowledge is the versioned, governed source. Implementations are verified build artifacts that any capable AI can regenerate, at the smallest scope, on any stack. The [manifesto](https://regen.engineering/) is at v0.3 (draft).
+
+| | Repo | What it is |
+|:--:|------|------------|
+| :scroll: | [**regen.engineering**](https://github.com/tysoncung/regen.engineering) | The manifesto and site |
+| :card_file_box: | [**regen-engineering-schema**](https://github.com/tysoncung/regen-engineering-schema) | Knowledge schema and reference validator: Markdown plus YAML frontmatter, validated as a graph |
+| :toolbox: | [**regen-engineering-skills**](https://github.com/tysoncung/regen-engineering-skills) | Reference implementation as agent skills |
+| :recycle: | [**regen-engineering-demo**](https://github.com/tysoncung/regen-engineering-demo) | Two implementations, one contract suite, same knowledge: delete an implementation and regenerate it |
+| :floppy_disk: | [**regen-engineering-stateful**](https://github.com/tysoncung/regen-engineering-stateful) | Reference system for REP-0005: what the method says about systems that own data |
+
+</div>
+
+---
+
 ## Placeforge: AI-Built Roblox Games
 
 <div align="center">
