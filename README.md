@@ -223,7 +223,7 @@ class TysonCung:
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tysoncung&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1793036943" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tysoncung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache=1793036943" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tysoncung&theme=tokyonight" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysoncung&theme=github_dark&cache=1793036943" />
 
